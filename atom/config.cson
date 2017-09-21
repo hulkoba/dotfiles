@@ -1,0 +1,46 @@
+"*":
+  "atom-beautify":
+    css:
+      beautify_on_save: true
+      force_indentation: true
+    html:
+      beautify_on_save: true
+      wrap_attributes: "force-aligned"
+    js:
+      beautify_on_save: true
+      indent_char: " 2"
+      indent_with_tabs: true
+      jslint_happy: true
+      max_preserve_newlines: 5
+      space_after_anon_function: true
+      space_in_paren: true
+      wrap_line_length: 120
+    less:
+      align_assignments: true
+      beautify_on_save: true
+      convert_quotes: "single"
+      force_indentation: true
+      preserve_newlines: true
+  core:
+    autoHideMenuBar: true
+    disabledPackages: [
+      "language-clojure"
+      "language-go"
+      "language-objective-c"
+      "language-perl"
+      "language-php"
+      "language-ruby"
+      "language-ruby-on-rails"
+      "language-sass"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "atom-dark-ui"
+      "batman-syntax"
+    ]
+  editor:
+    preferredLineLength: 120
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ensureSingleTrailingNewline: false

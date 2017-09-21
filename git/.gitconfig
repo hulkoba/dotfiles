@@ -1,0 +1,23 @@
+[core]
+	precomposeunicode = true
+	excludesfile = ~/.gitignore
+	quotepath = false
+[credential]
+	helper = cache --timeout=3600
+[push]
+	default = current
+	followTags = true
+[alias]
+	a = add .
+	rb = rebase --continue
+	st = status
+	ci = commit -am
+	co = checkout
+	cob = checkout -b
+	df = diff
+	pr = pull -r origin master
+[color]
+	status = always
+	ui = true
+
+
