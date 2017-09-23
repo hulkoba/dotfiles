@@ -2,10 +2,12 @@
 	precomposeunicode = true
 	excludesfile = ~/.gitignore
 	quotepath = false
+[github]
+	user = hulkoba
 [credential]
 	helper = cache --timeout=3600
 [push]
-	default = current
+	default = simple
 	followTags = true
 [alias]
 	a = add .
@@ -16,8 +18,13 @@
 	cob = checkout -b
 	df = diff
 	pr = pull -r origin master
+	please = --force-with-lease
 [color]
 	status = always
 	ui = true
+[color "status"]
+  added = yellow
+  changed = green
+	untracked = magenta
 
 
