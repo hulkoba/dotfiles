@@ -1,19 +1,30 @@
 - defaults:
-  link:
-    create: true
-    relink: true
+    link:
+      relink: true
 
 - clean: ['~']
 
 - shell:
-  - [git submodule update --init --recursive, Installing submodules]
+    - [git submodule update --init --recursive, Installing submodules]
 
 - link:
-  ~/.dotfiles: ''
-  ~/.gitconfig: git/.gitconfig
-  ~/.gitignore: git/.gitignore
-  ~/.bash_profile: bash/.bash_profile
-  ~/.bash_aliases: bash/.aliases
-  ~/.eslintrc: .eslintrc
-  ~/.atom/keymap.cson: atom/keymap.cson
-  ~/.atom/config.cson: atom/config.cson
+    ~/.dotfiles: ''
+    ~/.gitconfig:
+        force: true
+        path: git/.gitconfig
+    ~/.gitignore: git/.gitignore
+    ~/.bash_profile: bash/.bash_profile
+    ~/.aliases: bash/.aliases
+    ~/.eslintrc: .eslintrc
+    ~/.atom/keymap.cson:
+        force: true
+        path: atom/keymap.cson
+    ~/.atom/config.cson:
+        force: true
+        path: atom/config.cson
+    ~/.config/Code/User/settings.json:
+        relink: true
+        path: vscode/settings.json
+    ~/.config/Code/User/keybindings.json:
+        relink: true
+        path: vscode/keybindings.json

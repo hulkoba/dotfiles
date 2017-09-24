@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "files.trimTrailingWhitespace": true,
+    "html.suggest.angular1": false,
+    "html.suggest.ionic": true
+}

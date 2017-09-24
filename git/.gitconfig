@@ -4,6 +4,9 @@
 	quotepath = false
 [github]
 	user = hulkoba
+[user]
+	name = Jacoba
+	email = jacoba.brandner@web.de
 [credential]
 	helper = cache --timeout=3600
 [push]
@@ -18,13 +21,11 @@
 	cob = checkout -b
 	df = diff
 	pr = pull -r origin master
-	please = --force-with-lease
+	please = push --force-with-lease
 [color]
 	status = always
 	ui = true
 [color "status"]
-  added = yellow
-  changed = green
+  	added = green
+  	changed = yellow
 	untracked = magenta
-
-
