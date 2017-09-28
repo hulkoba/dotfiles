@@ -24,5 +24,8 @@ alias rnrun='react-native run-android'
 alias rnlog='react-native log-android'
 alias rnstart='react-native start'
 
+# schreenshot snipping
+alias pp='gnome-screenshot -a'
+
 
 alias update='sudo apt-get update'
