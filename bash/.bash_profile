@@ -25,3 +25,5 @@ export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:$DOTFILES_DIR/bin"
 export ANDROID_HOME=/home/cobi/dev/Android/Sdk export
 export PATH=${PATH}:${ANDROID_HOME}/tools
 export PATH=${PATH}:${ANDROID_HOME}/platform-tools
+
+export DB_NAME=masterprojektgeschwindigkeitsdaten

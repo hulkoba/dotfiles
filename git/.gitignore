@@ -11,5 +11,6 @@ npm-debug.log
 # vscode files
 .vscode
 jsconfig.json
-
 package-lock.json
+
+_config.yml

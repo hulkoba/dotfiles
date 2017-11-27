@@ -17,6 +17,10 @@ alias latex="cd ~/Dokumente/LaTeX"
 alias ni="npm install"
 alias nun="npm uninstall"
 alias nup="npm update"
+alias nst="npm start"
+
+# eslint
+alias esl = "./node_modules/.bin/eslint"
 
 
 # react-native aliases

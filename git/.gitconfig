@@ -2,11 +2,12 @@
 	precomposeunicode = true
 	excludesfile = ~/.gitignore
 	quotepath = false
+	hooksPath = /home/cobi/dev/hooks
 [github]
-	user = hulkoba
+	user=hulkoba
 [user]
-	name = Jacoba
-	email = jacoba.brandner@web.de
+	name=hulkoba
+	email=jacoba.brandner@web.de
 [credential]
 	helper = cache --timeout=3600
 [push]
@@ -18,7 +19,8 @@
 	st = status
 	ci = commit -am
 	co = checkout
-	cob = checkout -b
+	cob = checkout -b	
+	d = branch -d
 	df = diff
 	pr = pull -r origin master
 	please = push --force-with-lease
