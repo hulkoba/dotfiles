@@ -14,7 +14,7 @@
         path: git/.gitconfig
     ~/.gitignore: git/.gitignore
     ~/.bash_profile: bash/.bash_profile
-    ~/.aliases: bash/.aliases
+    ~/.bash_aliases: bash/.aliases
     ~/.eslintrc: .eslintrc
     ~/.atom/keymap.cson:
         force: true
