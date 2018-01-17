@@ -19,7 +19,7 @@
 	st = status
 	ci = commit -am
 	co = checkout
-	cob = checkout -b	
+	cob = checkout -b
 	d = branch -d
 	df = diff
 	pr = pull -r origin master
@@ -28,6 +28,6 @@
 	status = always
 	ui = true
 [color "status"]
-  	added = green
-  	changed = yellow
+  added = green
+  changed = yellow
 	untracked = magenta
