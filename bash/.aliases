@@ -10,18 +10,17 @@ alias ..="cd .."
 # shortcuts
 alias dev="cd ~/dev"
 alias fh="cd ~/dev/fh"
-alias latex="cd ~/Dokumente/LaTeX"
+alias thesis="cd ~/Dokumente/LaTeX/Thesis"
 
+#LaTeX
+alias pdf="pdflatex thesis.tex"
+alias bin="bibtex thesis"
 
 # npm
 alias ni="npm install"
 alias nun="npm uninstall"
 alias nup="npm update"
 alias nst="npm start"
-
-# eslint
-alias esl = "./node_modules/.bin/eslint"
-
 
 # react-native aliases
 alias rnrun='react-native run-android'

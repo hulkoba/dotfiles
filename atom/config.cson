@@ -39,10 +39,10 @@
       "base16-tomorrow-dark-theme"
     ]
   editor:
+    fontSize: 13
     preferredLineLength: 120
   "exception-reporting":
     userId: "fc70b8be-2226-1784-0b6b-16dd291a9111"
   welcome:
     showOnStartup: false
-  whitespace:
-    ensureSingleTrailingNewline: false
+  whitespace: {}
