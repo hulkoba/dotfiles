@@ -37,7 +37,7 @@
     ]
     telemetryConsent: "no"
   editor:
-    fontSize: 13
+    fonzSize: 13,
     preferredLineLength: 120
   "exception-reporting":
     userId: "4f710e74-b7ac-d570-817e-f25c5fd271b7"
