@@ -1,9 +1,8 @@
-'atom-workspace atom-text-editor':
- 'ctrl+/': 'editor:toggle-line-comments'
-
-'atom-text-editor':
- 'ctrl-shift-d': 'editor:delete-line'
- 'ctrl-d': 'editor:duplicate-lines'
-
-'.platform-win32 atom-text-editor, .platform-linux atom-text-editor':
- 'ctrl-b': 'find-and-replace:select-next'
+"atom-workspace atom-text-editor":
+  "ctrl-7": "editor:toggle-line-comments"
+'atom-workspace atom-text-editor:not([mini])':
+  "ctrl+d": "editor:duplicate-lines"
+'atom-workspace atom-text-editor:not([mini])':
+  "ctrl-shift-D": "editor:delete-line"
+".platform-win32 atom-text-editor, .platform-linux atom-text-editor":
+  "ctrl-b": "find-and-replace:select-next"

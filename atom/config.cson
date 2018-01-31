@@ -24,7 +24,6 @@
       force_indentation: true
       preserve_newlines: true
   core:
-    autoHideMenuBar: true
     disabledPackages: [
       "language-clojure"
       "language-go"
@@ -34,17 +33,18 @@
       "language-ruby"
       "language-ruby-on-rails"
       "language-sass"
+      "atom-beautify"
     ]
     telemetryConsent: "no"
-    themes: [
-      "atom-dark-ui"
-      "base16-tomorrow-dark-theme"
-    ]
   editor:
     fontSize: 13
     preferredLineLength: 120
   "exception-reporting":
     userId: "4f710e74-b7ac-d570-817e-f25c5fd271b7"
+  firacode:
+    fontWeight: "light"
+  linter:
+    showErrorPanel: false
   welcome:
     showOnStartup: false
   whitespace: {}

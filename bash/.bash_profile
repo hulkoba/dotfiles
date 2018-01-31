@@ -26,6 +26,4 @@ export ANDROID_HOME=/home/cobi/dev/Android/Sdk export
 export PATH=${PATH}:${ANDROID_HOME}/tools
 export PATH=${PATH}:${ANDROID_HOME}/platform-tools
 
-export DB_NAME=masterprojektgeschwindigkeitsdaten
-
 export ERL_FLAGS="-couch_ini /opt/couchdb/etc/default.ini /opt/couchdb/etc/local.ini"
