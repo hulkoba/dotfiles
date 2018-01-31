@@ -27,6 +27,9 @@ alias rnrun='react-native run-android'
 alias rnlog='react-native log-android'
 alias rnstart='react-native start'
 
+# couchdb
+alias stopcouch='sudo service couchdb stop'
+
 # schreenshot snipping
 alias pp='gnome-screenshot -a'
 
