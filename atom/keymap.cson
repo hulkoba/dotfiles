@@ -1,14 +1,6 @@
-"atom-workspace atom-text-editor":
-  "ctrl-7": "editor:toggle-line-comments"
-"atom-workspace atom-text-editor:not([mini])":
-  "ctrl+d": "editor:duplicate-lines"
-"atom-workspace atom-text-editor":
-  "ctrl-d": "editor:duplicate-lines"
-".platform-win32 atom-text-editor, .platform-linux atom-text-editor":
-  "ctrl-d": "editor:duplicate-lines"
-"atom-workspace atom-text-editor:not([mini])":
-  "ctrl-shift-D": "editor:delete-line"
-".platform-win32 atom-text-editor, .platform-linux atom-text-editor":
-  "ctrl-b": "find-and-replace:select-next"
-".platform-win32 atom-text-editor, .platform-linux atom-text-editor":
-  "ctrl-d": "editor:duplicate-lines"
+'atom-workspace atom-text-editor:not([mini])':
+  'ctrl-/': 'unset!'
+  'ctrl-shift-D': 'editor:delete-line'
+  'ctrl-b': 'find-and-replace:select-next'
+  'ctrl-d': 'editor:duplicate-lines'
+  'ctrl-7': 'editor:toggle-line-comments'
