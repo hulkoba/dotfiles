@@ -15,6 +15,7 @@ alias thesis="cd ~/Dokumente/LaTeX/Thesis"
 # LaTeX
 alias pdf="pdflatex thesis.tex"
 alias bib="bibtex thesis"
+alias gls="makeglossaries thesis"
 
 # npm
 alias ni="npm install"
