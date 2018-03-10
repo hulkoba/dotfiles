@@ -27,3 +27,6 @@ export PATH=${PATH}:${ANDROID_HOME}/tools
 export PATH=${PATH}:${ANDROID_HOME}/platform-tools
 
 export ERL_FLAGS="-couch_ini /opt/couchdb/etc/default.ini /opt/couchdb/etc/local.ini"
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm

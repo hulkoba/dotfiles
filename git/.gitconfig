@@ -3,11 +3,6 @@
 	excludesfile = ~/.gitignore
 	quotepath = false
 	hooksPath = /home/cobi/dev/hooks
-[github]
-	user=hulkoba
-[user]
-	name=hulkoba
-	email=jacoba.brandner@web.de
 [credential]
 	helper = cache --timeout=3600
 [push]
@@ -31,3 +26,6 @@
   added = green
   changed = yellow
 	untracked = magenta
+[user]
+	email = jacoba.brandner@web.de
+	name = hulkoba

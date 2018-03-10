@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Writing Color Scheme/Writing Color Scheme Light.tmTheme",
+	"font_face": "Roboto",
+	"font_size": 11,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"trim_trailing_white_space_on_save": true
+}

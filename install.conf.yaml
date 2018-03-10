@@ -13,7 +13,8 @@
         force: true
         path: git/.gitconfig
     ~/.gitignore: git/.gitignore
-    ~/.bash_profile: bash/.bash_profile
+    ~/.bash_profile: bash/.bash_profile    
+    ~/.profile: bash/.bash_profile
     ~/.aliases: bash/.aliases
     ~/.bash_aliases: bash/.aliases
     ~/.atom/keymap.cson:
@@ -22,9 +23,18 @@
     ~/.atom/config.cson:
         force: true
         path: atom/config.cson
+    ~/.atom/snippets.cson:
+        force: true
+        path: atom/snippets.cson
     ~/.config/Code/User/settings.json:
         relink: true
         path: vscode/settings.json
     ~/.config/Code/User/keybindings.json:
         relink: true
         path: vscode/keybindings.json
+    ~/.config/sublime-text-3/Packages/User/Preferences.sublime-settings:
+        relink: true
+        path: sublime/Preferences.sublime-settings
+    ~/.config/sublime-text-3/Packages/User/Default(Linux).sublime-keymap:
+        relink: true
+        path: sublime/Default(Linux).sublime-keymap
