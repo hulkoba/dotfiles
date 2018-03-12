@@ -1,0 +1,4318 @@
+{
+	"guid": "root________",
+	"title": "",
+	"index": 0,
+	"dateAdded": 1474304841351000,
+	"lastModified": 1520258638349000,
+	"id": 1,
+	"typeCode": 2,
+	"type": "text/x-moz-place-container",
+	"root": "placesRoot",
+	"children": [{
+		"guid": "menu________",
+		"title": "Lesezeichen-Menü",
+		"index": 0,
+		"dateAdded": 1474304841351000,
+		"lastModified": 1518606249653000,
+		"id": 2,
+		"typeCode": 2,
+		"type": "text/x-moz-place-container",
+		"root": "bookmarksMenuFolder",
+		"children": [{
+			"guid": "mjj_4djmgYfq",
+			"title": "Ubuntu and Free Software links",
+			"index": 0,
+			"dateAdded": 1474304841749000,
+			"lastModified": 1474304841752000,
+			"id": 7,
+			"typeCode": 2,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "Information and resources about Ubuntu, Debian and Free Software in general"
+			}],
+			"type": "text/x-moz-place-container",
+			"children": [{
+				"guid": "9WA_ORagldYG",
+				"title": "Ubuntu",
+				"index": 0,
+				"dateAdded": 1474304841749000,
+				"lastModified": 1474304841750000,
+				"id": 8,
+				"typeCode": 1,
+				"iconuri": "http://www.mozilla.org/2005/made-up-favicon/1-1474304841750",
+				"type": "text/x-moz-place",
+				"uri": "http://www.ubuntu.com/"
+			}, {
+				"guid": "F8hjMM44DCdz",
+				"title": "Ubuntu Wiki (community-edited website)",
+				"index": 1,
+				"dateAdded": 1474304841750000,
+				"lastModified": 1474304841751000,
+				"id": 9,
+				"typeCode": 1,
+				"iconuri": "http://www.mozilla.org/2005/made-up-favicon/2-1474304841750",
+				"type": "text/x-moz-place",
+				"uri": "http://wiki.ubuntu.com/"
+			}, {
+				"guid": "HNYFWdT21Lpo",
+				"title": "Make a Support Request to the Ubuntu Community",
+				"index": 2,
+				"dateAdded": 1474304841751000,
+				"lastModified": 1474304841752000,
+				"id": 10,
+				"typeCode": 1,
+				"iconuri": "http://www.mozilla.org/2005/made-up-favicon/3-1474304841751",
+				"type": "text/x-moz-place",
+				"uri": "https://answers.launchpad.net/ubuntu/+addquestion"
+			}, {
+				"guid": "uDtjdrefKfuf",
+				"title": "Debian (Ubuntu is based on Debian)",
+				"index": 3,
+				"dateAdded": 1474304841752000,
+				"lastModified": 1474304841753000,
+				"id": 11,
+				"typeCode": 1,
+				"iconuri": "http://www.mozilla.org/2005/made-up-favicon/4-1474304841752",
+				"type": "text/x-moz-place",
+				"uri": "http://www.debian.org/"
+			}]
+		}, {
+			"guid": "x4pNqXYFhEcG",
+			"title": "Elektroschrott einfach und bequem entsorgen | c't Magazin",
+			"index": 1,
+			"dateAdded": 1474305978988000,
+			"lastModified": 1474305979018000,
+			"id": 20,
+			"typeCode": 1,
+			"iconuri": "https://www.heise.de/favicon_ct.ico",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "Große Händler müssen Elektroschrott kostenlos zurücknehmen. Aber was, wie und wo genau? Wir erklären, wie Sie Ihre alten Geräte ohne großen Aufwand loswerden."
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://www.heise.de/ct/artikel/Elektroschrott-einfach-und-bequem-entsorgen-3308010.html"
+		}, {
+			"guid": "RXl3reVe_mGt",
+			"title": "",
+			"index": 2,
+			"dateAdded": 1474368611057000,
+			"lastModified": 1474368611057000,
+			"id": 30,
+			"typeCode": 3,
+			"type": "text/x-moz-place-separator"
+		}, {
+			"guid": "axbCASWn_pb-",
+			"title": "quatsch",
+			"index": 3,
+			"dateAdded": 1427802324000000,
+			"lastModified": 1452000657000000,
+			"id": 31,
+			"typeCode": 2,
+			"type": "text/x-moz-place-container",
+			"children": [{
+				"guid": "ZpWv1mL5r2WZ",
+				"title": "CAT BOUNCE!",
+				"index": 0,
+				"dateAdded": 1352145924000000,
+				"lastModified": 1440513347000000,
+				"id": 32,
+				"typeCode": 1,
+				"iconuri": "http://cat-bounce.com/bounce_head.gif",
+				"type": "text/x-moz-place",
+				"uri": "http://cat-bounce.com/"
+			}, {
+				"guid": "fOcIZ3R4hyJR",
+				"title": "Goths up trees",
+				"index": 1,
+				"dateAdded": 1352146404000000,
+				"lastModified": 1440513347000000,
+				"id": 33,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://gothsuptrees.net/"
+			}, {
+				"guid": "Camo-mDEJ4oo",
+				"title": "Linux on a Nspire CAS CX Calculator",
+				"index": 2,
+				"dateAdded": 1353528013000000,
+				"lastModified": 1440513347000000,
+				"id": 34,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://hackaday.com/2012/11/12/linux-on-a-nspire-cas-cx-calculator/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+hackaday%2FLgoM+%28Hack+a+Day%29&utm_content=Google+Reader"
+			}, {
+				"guid": "oOcKEJiUEVrr",
+				"title": "vongestern Blog: Datenhighway to Hell: BRAVO-Hits 11 (1995)",
+				"index": 3,
+				"dateAdded": 1353538337000000,
+				"lastModified": 1440513347000000,
+				"id": 35,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.vongestern.com/2012/07/datenhighway-to-hell-bravo-hits-11-1995.html"
+			}, {
+				"guid": "tFSRBF1dL_2L",
+				"title": "Grumpy Cat - i dont like morning people or mornings or people",
+				"index": 4,
+				"dateAdded": 1355266594000000,
+				"lastModified": 1440513347000000,
+				"id": 36,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.quickmeme.com/meme/3rzhve/"
+			}, {
+				"guid": "hu5gbKyENgnU",
+				"title": "Wok This - YouTube",
+				"index": 5,
+				"dateAdded": 1355267252000000,
+				"lastModified": 1440513347000000,
+				"id": 37,
+				"typeCode": 1,
+				"iconuri": "http://www.mozilla.org/2005/made-up-favicon/112-1440513347799",
+				"type": "text/x-moz-place",
+				"uri": "http://www.youtube.com/watch?v=ouKTpUDJgJU"
+			}, {
+				"guid": "eVBpwkRO37q9",
+				"title": "Star Trek Sound Effects",
+				"index": 6,
+				"dateAdded": 1357682973000000,
+				"lastModified": 1440513347000000,
+				"id": 38,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.mediacollege.com/downloads/sound-effects/star-trek/"
+			}, {
+				"guid": "48Lkyykt3wMu",
+				"title": "1cmcydw.gif (GIF-Grafik, 260 × 146 Pixel)",
+				"index": 7,
+				"dateAdded": 1365712012000000,
+				"lastModified": 1440513347000000,
+				"id": 39,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://img.pr0gramm.com/2013/04/1cmcydw.gif"
+			}, {
+				"guid": "EraoEEg_9seQ",
+				"title": "Pictures from a developer’s life",
+				"index": 8,
+				"dateAdded": 1390977455000000,
+				"lastModified": 1440513347000000,
+				"id": 40,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.onemenny.com/blog/pictures-from-a-developers-life/"
+			}]
+		}, {
+			"guid": "qBpjXRxFXNoC",
+			"title": "yt",
+			"index": 4,
+			"dateAdded": 1427802324000000,
+			"lastModified": 1467706881000000,
+			"id": 41,
+			"typeCode": 2,
+			"type": "text/x-moz-place-container",
+			"children": [{
+				"guid": "3OxJrVEAgORY",
+				"title": "hulu",
+				"index": 0,
+				"dateAdded": 1352069836000000,
+				"lastModified": 1440513347000000,
+				"id": 42,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.hulu.com/"
+			}, {
+				"guid": "2anwKR4nvD-A",
+				"title": "Reginald - YouTube",
+				"index": 1,
+				"dateAdded": 1352881902000000,
+				"lastModified": 1440513347000000,
+				"id": 43,
+				"typeCode": 1,
+				"iconuri": "http://www.mozilla.org/2005/made-up-favicon/113-1440513347810",
+				"type": "text/x-moz-place",
+				"uri": "http://www.youtube.com/watch?v=r8NVlYCwqIc&feature=player_embedded"
+			}, {
+				"guid": "j0YQYLTJYvbp",
+				"title": "sanger.dk",
+				"index": 2,
+				"dateAdded": 1353941934000000,
+				"lastModified": 1440513347000000,
+				"id": 44,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.sanger.dk/"
+			}, {
+				"guid": "Hbknk3zr3kPA",
+				"title": "There's a problem with Brighton's Christmas lights - YouTube",
+				"index": 3,
+				"dateAdded": 1355495979000000,
+				"lastModified": 1440513347000000,
+				"id": 45,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.youtube.com/watch?feature=player_embedded&v=gCgV-FnEcGQ"
+			}, {
+				"guid": "4nFdpUZZ8nyE",
+				"title": "Cats Playing Patty-cake, what they were saying... - YouTube",
+				"index": 4,
+				"dateAdded": 1357478586000000,
+				"lastModified": 1440513347000000,
+				"id": 46,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.youtube.com/watch?v=X3iFhLdWjqc"
+			}, {
+				"guid": "K9Zf7LqNHna-",
+				"title": "neoParadise - Art aber fair - YouTube",
+				"index": 5,
+				"dateAdded": 1358456393000000,
+				"lastModified": 1440513347000000,
+				"id": 47,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.youtube.com/watch?v=CoWYLtMaGXI"
+			}, {
+				"guid": "nif-MLq7qFnd",
+				"title": "AGRAPROFIT - Der Film - YouTube",
+				"index": 6,
+				"dateAdded": 1358793469000000,
+				"lastModified": 1440513347000000,
+				"id": 48,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.youtube.com/watch?v=pgCD-4Q-4Wo&feature=player_embedded#!"
+			}, {
+				"guid": "3wUQ0YB_RbGo",
+				"title": "TPB AFK: The Pirate Bay Doc Official Trailer - YouTube",
+				"index": 7,
+				"dateAdded": 1358802149000000,
+				"lastModified": 1440513347000000,
+				"id": 49,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.youtube.com/watch?feature=player_embedded&v=KCAGb7oSwDs#!"
+			}, {
+				"guid": "YCZZYacT44ZG",
+				"title": "The Original Grumpy Cat - YouTube",
+				"index": 8,
+				"dateAdded": 1365104187000000,
+				"lastModified": 1440513347000000,
+				"id": 50,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "https://www.youtube.com/watch?feature=player_embedded&v=INscMGmhmX4"
+			}, {
+				"guid": "vqdVBFSLL___",
+				"title": "WDR Computernacht - Teil 1 - Das Elektronengehirn und seine Entwicklung - YouTube",
+				"index": 9,
+				"dateAdded": 1365368088000000,
+				"lastModified": 1440513347000000,
+				"id": 51,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.youtube.com/embed/l1WVuDZYd1c"
+			}, {
+				"guid": "Zk3thm8ZwiGh",
+				"title": "Gato com preguiça / Sloth and her best friend Daisy - YouTube",
+				"index": 10,
+				"dateAdded": 1366407103000000,
+				"lastModified": 1440513347000000,
+				"id": 52,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.youtube.com/watch?v=VACbH_S5ZFo&feature=player_embedded"
+			}, {
+				"guid": "QvIMt0iLvINq",
+				"title": "jIyIntaHvIS not qajegh (Klingon Rick Roll Parody) - YouTube",
+				"index": 11,
+				"dateAdded": 1382474554000000,
+				"lastModified": 1440513347000000,
+				"id": 53,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.youtube.com/watch?v=b0YC3RpvE3M"
+			}, {
+				"guid": "lfFtiouPrXxm",
+				"title": "How to clean your laptop fan (Clean The Fan) - YouTube",
+				"index": 12,
+				"dateAdded": 1398210397000000,
+				"lastModified": 1440513347000000,
+				"id": 54,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.youtube.com/watch?v=OpCJzdWxEbQ"
+			}, {
+				"guid": "wfGigIGWrQNj",
+				"title": "▶ Superhero Uterus Man Will Blow A Hole In Your Mind With An XY Chromosome Attack - YouTube",
+				"index": 13,
+				"dateAdded": 1416061240000000,
+				"lastModified": 1440513347000000,
+				"id": 55,
+				"typeCode": 1,
+				"iconuri": "http://www.mozilla.org/2005/made-up-favicon/114-1440513347826",
+				"type": "text/x-moz-place",
+				"uri": "https://www.youtube.com/watch?v=GBoqUwbFBiQ"
+			}, {
+				"guid": "zH1ebwX2ht14",
+				"title": "Captain Picard sings \"Let it Snow\" - YouTube",
+				"index": 14,
+				"dateAdded": 1418342765000000,
+				"lastModified": 1440513347000000,
+				"id": 56,
+				"typeCode": 1,
+				"iconuri": "https://s.ytimg.com/yts/img/favicon_144-vflWmzoXw.png",
+				"type": "text/x-moz-place",
+				"uri": "https://www.youtube.com/watch?v=i-zdMkOZTKs"
+			}]
+		}, {
+			"guid": "hMhjOBvHThXQ",
+			"title": "essen",
+			"index": 5,
+			"dateAdded": 1427802324000000,
+			"lastModified": 1440513347000000,
+			"id": 57,
+			"typeCode": 2,
+			"type": "text/x-moz-place-container",
+			"children": [{
+				"guid": "sJ0GGYmpmnzK",
+				"title": "No Hablo Espanol",
+				"index": 0,
+				"dateAdded": 1355999056000000,
+				"lastModified": 1440513347000000,
+				"id": 58,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.nohabloespanol.de/"
+			}, {
+				"guid": "YPMsrGOYZr5o",
+				"title": "Vego Foodworld - Home",
+				"index": 1,
+				"dateAdded": 1355999374000000,
+				"lastModified": 1440513347000000,
+				"id": 59,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.vego-foodworld.de/"
+			}, {
+				"guid": "vU72wZr_AzCO",
+				"title": "Restaurantführer",
+				"index": 2,
+				"dateAdded": 1366789027000000,
+				"lastModified": 1440513347000000,
+				"id": 60,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.peta.de/restaurants"
+			}]
+		}, {
+			"guid": "8D_XGFruicJF",
+			"title": "ideen",
+			"index": 6,
+			"dateAdded": 1427802324000000,
+			"lastModified": 1440513347000000,
+			"id": 61,
+			"typeCode": 2,
+			"type": "text/x-moz-place-container",
+			"children": [{
+				"guid": "QyPMhpYsnEDg",
+				"title": "Milliarden Sonnen - Eine Reise durch die Galaxis - Planetarium und Sternwarte Wilhelm-Foerster e.V",
+				"index": 0,
+				"dateAdded": 1395172058000000,
+				"lastModified": 1440513347000000,
+				"id": 62,
+				"typeCode": 1,
+				"iconuri": "http://www.mozilla.org/2005/made-up-favicon/116-1440513347835",
+				"type": "text/x-moz-place",
+				"uri": "http://www.planetarium-berlin.de/Programm/v-1123/Milliarden-Sonnen-Eine-Reise-durch-die-Galaxis#V6762"
+			}]
+		}, {
+			"guid": "xSkAaVbGNdyd",
+			"title": "",
+			"index": 7,
+			"dateAdded": 1474368656095000,
+			"lastModified": 1474368656095000,
+			"id": 320,
+			"typeCode": 3,
+			"type": "text/x-moz-place-separator"
+		}, {
+			"guid": "yxAJY6aZmXUr",
+			"title": "IKEA PS 2014 Death Star Hack! - IKEA Hackers - IKEA Hackers",
+			"index": 8,
+			"dateAdded": 1448555653000000,
+			"lastModified": 1448555653000000,
+			"id": 353,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "http://www.ikeahackers.net/wp-content/uploads/2013/04/ih-admin-avatar.ico",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "I wanted to have a go myself for my son’s room. I took inspiration from around the web and took the bits I liked to make my Death Star Hack."
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://www.ikeahackers.net/2015/11/ikea-ps-2014-death-star-hack.html"
+		}, {
+			"guid": "ziqQTYxLSoe6",
+			"title": "Font Awesome Icons",
+			"index": 9,
+			"dateAdded": 1464005982000000,
+			"lastModified": 1464005982000000,
+			"id": 354,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "http://fontawesome.io/assets/ico/favicon.ico",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "Font Awesome, the iconic font and CSS framework"
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://fontawesome.io/icons/"
+		}, {
+			"guid": "0P6C4oXob9MZ",
+			"title": "BELEZA NATURAL",
+			"index": 10,
+			"dateAdded": 1474375862205000,
+			"lastModified": 1474375862218000,
+			"id": 609,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "Preise bzw. Presiliste Maniküre und Pediküre"
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://www.salon-beleza-natural.de/manikuere-pedikuere/"
+		}, {
+			"guid": "0a1PIGsupcrr",
+			"title": "Mit der BIG Suche Fachärzte in Ihrer Nähe finden - BIG",
+			"index": 11,
+			"dateAdded": 1477296912187000,
+			"lastModified": 1477296912203000,
+			"id": 615,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://assets-2.big-direkt.de/static/images/favicon.ico",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "Hier finden Sie schnell und einfach Fachärzte, die sich auf bestimmte medizinische Fachgebiete spezialisiert haben."
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://www.big-direkt.de/services/suchen/aerzte/fachaerzte.html?step=results&submit=1&UserIP=92.78.138.171&ZipCode=10409&OrientId=4-0X3R1C870P7Q14T9SMWQS5X-1&OrientId2=6-0XR68CPQ9S75M1T600WQS2B-1&DbNr=1&EntryId=I5G346H4AMW88AUQ9I5.180D85I"
+		}, {
+			"guid": "2nWq0nmUO00O",
+			"title": "Rookie Rumble 2016-12-10 - YouTube",
+			"index": 12,
+			"dateAdded": 1481482883842000,
+			"lastModified": 1481482883844000,
+			"id": 638,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://s.ytimg.com/yts/img/favicon_144-vflWmzoXw.png",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "Bear City Roller Derby Rookie Rumble."
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://www.youtube.com/watch?v=SFhvEu3Esug"
+		}, {
+			"guid": "QYOuON_wju7H",
+			"title": "Tierarzt Berlin - Manuel-Olaf Werner",
+			"index": 13,
+			"dateAdded": 1485943235720000,
+			"lastModified": 1485943235721000,
+			"id": 675,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://www.tierarzt-onlineverzeichnis.de/style/img/misc/favicon.ico",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "Manuel-Olaf  Werner  Tierarztpraxis am Planetarium - Tierarzt in 10437 Berlin, Stargarder Str. 48, Fachgebiete: Allgemeine Veterinärmedizin,  Chirurgie,  Ernährungsberatung,  Innere Medizin,  L ..."
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://www.tierarzt-onlineverzeichnis.de/tierarztpraxis/10437-berlin/manuel-olaf--werner/6934/"
+		}, {
+			"guid": "C42fBaje35dg",
+			"title": "",
+			"index": 14,
+			"dateAdded": 1474304841874000,
+			"lastModified": 1474304841874000,
+			"id": 19,
+			"typeCode": 3,
+			"type": "text/x-moz-place-separator"
+		}, {
+			"guid": "WRBV-gWEIVhL",
+			"title": "Doctor Who - Poster, Kunstdrucke bei MonkeyPosters.de",
+			"index": 15,
+			"dateAdded": 1493896846112000,
+			"lastModified": 1493896846114000,
+			"id": 731,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://static.posters.cz/favicon.ico",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "Bestellen Sie Doctor Who Poster online: Online-Verkauf von Bildern, Postern, Fotos, Musik- und Filmpostern, Erotik, Sport, Blumen-, Tierbildern usw. 3+1 Gratis!\n"
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://www.monkeyposters.de/doctor-who/"
+		}, {
+			"guid": "fTYd8NRrdIcN",
+			"title": "SichereVerteilteSysteme/A1 at master · Rakatak/SichereVerteilteSysteme",
+			"index": 16,
+			"dateAdded": 1494344559254000,
+			"lastModified": 1494344559288000,
+			"id": 732,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://github.com/fluidicon.png",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "SichereVerteilteSysteme - scholar approaches in secure data"
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://github.com/Rakatak/SichereVerteilteSysteme/tree/master/A1"
+		}, {
+			"guid": "5mVHbGuUBGVY",
+			"title": "GitHub - devfoo-one/SVS-Uebung-3",
+			"index": 17,
+			"dateAdded": 1495542355424000,
+			"lastModified": 1495542355445000,
+			"id": 733,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://github.com/fluidicon.png",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "Contribute to SVS-Uebung-3 development by creating an account on GitHub."
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://github.com/devfoo-one/SVS-Uebung-3"
+		}, {
+			"guid": "hpAhfStE-3FQ",
+			"title": "GitHub - steven-maasch/svs-weis-ws2014: Sicherheit in Verteilten Systemen - Rüdiger Weis - Beuth Master WS2014/15",
+			"index": 18,
+			"dateAdded": 1495542359512000,
+			"lastModified": 1495542359539000,
+			"id": 734,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://github.com/fluidicon.png",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "svs-weis-ws2014 - Sicherheit in Verteilten Systemen - Rüdiger Weis - Beuth Master WS2014/15"
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://github.com/steven-maasch/svs-weis-ws2014"
+		}, {
+			"guid": "PQyqvlm-bD6Q",
+			"title": "GitHub - devfoo-one/SVS-WS16_SubDecrypt",
+			"index": 19,
+			"dateAdded": 1495542399271000,
+			"lastModified": 1495542399295000,
+			"id": 735,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://github.com/fluidicon.png",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "Contribute to SVS-WS16_SubDecrypt development by creating an account on GitHub."
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://github.com/devfoo-one/SVS-WS16_SubDecrypt"
+		}, {
+			"guid": "J5dEa6LJ42YC",
+			"title": "GitHub - devfoo-one/SVS-WS16-SteganoHide",
+			"index": 20,
+			"dateAdded": 1495542424524000,
+			"lastModified": 1495542424532000,
+			"id": 736,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://github.com/fluidicon.png",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "Contribute to SVS-WS16-SteganoHide development by creating an account on GitHub."
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://github.com/devfoo-one/SVS-WS16-SteganoHide"
+		}, {
+			"guid": "dufTfhaxEX2F",
+			"title": "Sneakers NEW BALANCE - GW500KWS Schwarz - Sneakers - Halbschuhe - Damenschuhe - www.eschuhe.de",
+			"index": 21,
+			"dateAdded": 1500058743682000,
+			"lastModified": 1500058743705000,
+			"id": 737,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://www.eschuhe.de/skin/frontend/snowdog/v2/images/favicons/favicon.ico",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "Eschuhe.de ist ein Online-Shop mit Marken Schuhen und Accessoires. Im Angebot haben wir über 400 Marken und 25 000 Modelle von Schuhen und Taschen. Die größten Marken haben uns vertraut: Tommy Hilfiger, Guess, Carinii, Furla, Ecco, Clarks, Geox und viele andere."
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://www.eschuhe.de/sneakers-new-balance-gw500kws-schwarz.html"
+		}, {
+			"guid": "RWSGXHSiGtpe",
+			"title": "GitHub does dotfiles - dotfiles.github.io",
+			"index": 22,
+			"dateAdded": 1506165591382000,
+			"lastModified": 1506165591409000,
+			"id": 738,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": ""
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://dotfiles.github.io/"
+		}, {
+			"guid": "A_vKu_0Z1XK4",
+			"title": "dotfiles/.bash_prompt",
+			"index": 23,
+			"dateAdded": 1506174316427000,
+			"lastModified": 1506174325525000,
+			"id": 739,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://assets-cdn.github.com/favicon.ico",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "dotfiles - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS"
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://github.com/mathiasbynens/dotfiles/blob/master/.bash_prompt"
+		}, {
+			"guid": "H2z4uWrIVtcX",
+			"title": "fressnapf",
+			"index": 24,
+			"dateAdded": 1509636475145000,
+			"lastModified": 1509636482067000,
+			"id": 751,
+			"typeCode": 1,
+			"iconuri": "https://nolp.dhl.de/nextt-online-public/static/assets/img/favicon.ico",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "DHL Sendungsverfolgung"
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://nolp.dhl.de/nextt-online-public/set_identcodes.do?lang=de&idc=142837541487&cid=avise"
+		}, {
+			"guid": "p2lB8WbIbheo",
+			"title": "NESPi Case - raspberry pi wiki",
+			"index": 25,
+			"dateAdded": 1511104018944000,
+			"lastModified": 1511104018947000,
+			"id": 754,
+			"typeCode": 1,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": ""
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://www.raspberrypiwiki.com/index.php/NESPi_Case"
+		}, {
+			"guid": "qVP7UzNAglat",
+			"title": "vodafone kündigen",
+			"index": 26,
+			"dateAdded": 1512031495274000,
+			"lastModified": 1512031502194000,
+			"id": 756,
+			"typeCode": 1,
+			"iconuri": "https://www.vodafone.de/images/favicon.ico",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": ""
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://www.vodafone.de/contact/rf/contactform.jsp?deepLink=25&frage1=NEIN&formularId=kundendaten_kuendigung_dsl"
+		}, {
+			"guid": "6znuEoAH0-0P",
+			"title": "03_public_key_cryptography.pdf",
+			"index": 27,
+			"dateAdded": 1512394836174000,
+			"lastModified": 1512394836178000,
+			"id": 757,
+			"typeCode": 1,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": ""
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://lms.beuth-hochschule.de/moodle/pluginfile.php/682315/mod_resource/content/1/03_public_key_cryptography.pdf"
+		}, {
+			"guid": "qkw61MY2ca2Y",
+			"title": "React Day Berlin - YouTube - YouTube",
+			"index": 28,
+			"dateAdded": 1514124322367000,
+			"lastModified": 1514124322376000,
+			"id": 761,
+			"typeCode": 1,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "https://reactday.berlin"
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://www.youtube.com/channel/UC1EYHmQYBUJjkmL6OtK4rlw/videos"
+		}, {
+			"guid": "G6afV4OFmTaQ",
+			"title": "Installation - Android - React Native Navigation - truly native navigation for iOS and Android",
+			"index": 29,
+			"dateAdded": 1514893585678000,
+			"lastModified": 1514893585700000,
+			"id": 769,
+			"typeCode": 1,
+			"iconuri": "https://wix.github.io/react-native-navigation/_images/favicon.ico",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "React Native Navigation - truly native navigation for iOS and Android"
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://wix.github.io/react-native-navigation/#/installation-android"
+		}, {
+			"guid": "2hXJpNgKgiWs",
+			"title": "Stauatlas",
+			"index": 30,
+			"dateAdded": 1516267169815000,
+			"lastModified": 1516267169840000,
+			"id": 788,
+			"typeCode": 1,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": ""
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://localhost:3000/"
+		}, {
+			"guid": "6R5aDpuC3lSL",
+			"title": "Dokumente: Beuth Hochschule für Technik Berlin",
+			"index": 31,
+			"dateAdded": 1516284101579000,
+			"lastModified": 1516284101582000,
+			"id": 789,
+			"typeCode": 1,
+			"iconuri": "http://www.beuth-hochschule.de/fileadmin/tmpl/apple-touch-icon.png",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": ""
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://www.beuth-hochschule.de/992/"
+		}]
+	}, {
+		"guid": "toolbar_____",
+		"title": "Lesezeichen-Symbolleiste",
+		"index": 1,
+		"dateAdded": 1474304841351000,
+		"lastModified": 1520258638349000,
+		"id": 3,
+		"typeCode": 2,
+		"annos": [{
+			"name": "bookmarkProperties/description",
+			"flags": 0,
+			"expires": 4,
+			"value": "Lesezeichen, die Sie in diesem Ordner ablegen, werden in der Lesezeichen-Symbolleiste angezeigt."
+		}],
+		"type": "text/x-moz-place-container",
+		"root": "toolbarFolder",
+		"children": [{
+			"guid": "M5VJUHepP80j",
+			"title": "",
+			"index": 0,
+			"dateAdded": 1422874996000000,
+			"lastModified": 1440513347000000,
+			"id": 357,
+			"typeCode": 1,
+			"iconuri": "https://s.yimg.com/wm/login/apple-touch-icon.png",
+			"type": "text/x-moz-place",
+			"uri": "https://login.yahoo.com/"
+		}, {
+			"guid": "4X5P5nao1a8g",
+			"title": "DIY",
+			"index": 1,
+			"dateAdded": 1427802324000000,
+			"lastModified": 1466233480000000,
+			"id": 359,
+			"typeCode": 2,
+			"type": "text/x-moz-place-container",
+			"children": [{
+				"guid": "5d-gMR2qZbSn",
+				"title": "Cute Overload",
+				"index": 0,
+				"dateAdded": 1365663739000000,
+				"lastModified": 1440513347000000,
+				"id": 360,
+				"typeCode": 1,
+				"iconuri": "http://0.gravatar.com/blavatar/038b4e5d3e330426057e07b98435585b?s=32",
+				"type": "text/x-moz-place",
+				"uri": "http://cuteoverload.com/"
+			}, {
+				"guid": "e-tjYQRfcClh",
+				"title": "",
+				"index": 1,
+				"dateAdded": 1416157463000000,
+				"lastModified": 1440513347000000,
+				"id": 361,
+				"typeCode": 1,
+				"iconuri": "https://s.pinimg.com/webapp/style/images/favicon-9f8f9adf.png",
+				"type": "text/x-moz-place",
+				"uri": "https://www.pinterest.com/login/"
+			}, {
+				"guid": "LWFy3IxT2Ie3",
+				"title": "Instructables",
+				"index": 2,
+				"dateAdded": 1403241783000000,
+				"lastModified": 1440513347000000,
+				"id": 362,
+				"typeCode": 1,
+				"iconuri": "https://www.instructables.com/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://www.instructables.com/"
+			}, {
+				"guid": "8y_qxmi9J5Dw",
+				"title": "Projects Archive | Make: DIY Projects, How-Tos, Electronics, Crafts and Ideas for Makers",
+				"index": 3,
+				"dateAdded": 1451893741000000,
+				"lastModified": 1451893741000000,
+				"id": 363,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "https://i0.wp.com/makezine.com/wp-content/uploads/2017/04/cropped-make-logo@2x.png?fit=192%2C192",
+				"type": "text/x-moz-place",
+				"uri": "http://makezine.com/projects/"
+			}, {
+				"guid": "1gUU9LCcmHU0",
+				"title": "Geek Crafts",
+				"index": 4,
+				"dateAdded": 1351938619000000,
+				"lastModified": 1440513347000000,
+				"id": 364,
+				"typeCode": 1,
+				"iconuri": "http://geekcrafts.com/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://geekcrafts.com/"
+			}, {
+				"guid": "Tzqb5ZiQjC2Q",
+				"title": "Fuck Yeah Geek and Nerd Knits!",
+				"index": 5,
+				"dateAdded": 1352461277000000,
+				"lastModified": 1440513347000000,
+				"id": 365,
+				"typeCode": 1,
+				"iconuri": "http://38.media.tumblr.com/avatar_5982203bf20d_128.png",
+				"type": "text/x-moz-place",
+				"uri": "http://fuckyeahgeekknits.tumblr.com/"
+			}, {
+				"guid": "gWDami-SVHny",
+				"title": "Nerdy Crochet Stuff",
+				"index": 6,
+				"dateAdded": 1372230588000000,
+				"lastModified": 1440513347000000,
+				"id": 366,
+				"typeCode": 1,
+				"iconuri": "http://68.media.tumblr.com/avatar_e51374c1896e_128.png",
+				"type": "text/x-moz-place",
+				"uri": "http://nerdycrochet.tumblr.com/"
+			}, {
+				"guid": "m8J97fH9idAt",
+				"title": "IKEA Hackers",
+				"index": 7,
+				"dateAdded": 1402911101000000,
+				"lastModified": 1440513347000000,
+				"id": 367,
+				"typeCode": 1,
+				"iconuri": "http://www.mozilla.org/2005/made-up-favicon/46-1440513347650",
+				"type": "text/x-moz-place",
+				"uri": "http://www.ikeahackers.net/"
+			}, {
+				"guid": "3Wrl19y_ZhIV",
+				"title": "",
+				"index": 8,
+				"dateAdded": 1388757330000000,
+				"lastModified": 1440513347000000,
+				"id": 368,
+				"typeCode": 1,
+				"iconuri": "http://www.mozilla.org/2005/made-up-favicon/47-1440513347651",
+				"type": "text/x-moz-place",
+				"uri": "https://www.ravelry.com/account/login"
+			}, {
+				"guid": "7omeXmlYXZM9",
+				"title": "",
+				"index": 9,
+				"dateAdded": 1387562521000000,
+				"lastModified": 1440513347000000,
+				"id": 369,
+				"typeCode": 1,
+				"iconuri": "http://www.catinwater.com/wp-content/uploads/2014/05/Screen%20Shot%202014-05-23%20at%2011.33.15.png",
+				"type": "text/x-moz-place",
+				"uri": "http://catinwater.com/"
+			}, {
+				"guid": "XtfGQublIzIx",
+				"title": "gulli:board",
+				"index": 10,
+				"dateAdded": 1351944653000000,
+				"lastModified": 1440513347000000,
+				"id": 370,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://board.gulli.com/"
+			}, {
+				"guid": "Qw-GLFqvWRJ5",
+				"title": "Crumpet's Kandi Patterns - Pony Bead Patterns for Kandi Cuffs | Perler Bead Patterns",
+				"index": 11,
+				"dateAdded": 1371983931000000,
+				"lastModified": 1440513347000000,
+				"id": 371,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://kandipatterns.com/"
+			}, {
+				"guid": "h4IxK2JX25LY",
+				"title": "Sporcle -Brain Games",
+				"index": 12,
+				"dateAdded": 1403242284000000,
+				"lastModified": 1440513347000000,
+				"id": 372,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.sporcle.com/"
+			}, {
+				"guid": "tbRIRIg8kc2A",
+				"title": "Silk",
+				"index": 13,
+				"dateAdded": 1403242429000000,
+				"lastModified": 1440513347000000,
+				"id": 373,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://weavesilk.com/"
+			}, {
+				"guid": "DFNJ1Awn9lUM",
+				"title": "Astronomy Picture of the Day",
+				"index": 14,
+				"dateAdded": 1403267700000000,
+				"lastModified": 1440513347000000,
+				"id": 374,
+				"typeCode": 1,
+				"iconuri": "http://apod.nasa.gov/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://apod.nasa.gov/apod/astropix.html"
+			}, {
+				"guid": "da49z3w0YcGX",
+				"title": "Lenovo ThinkPad New X1 Carbon Disassembly | MyFixGuide.com",
+				"index": 15,
+				"dateAdded": 1425283957000000,
+				"lastModified": 1440513347000000,
+				"id": 375,
+				"typeCode": 1,
+				"iconuri": "http://www.myfixguide.com/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://www.myfixguide.com/manual/lenovo-thinkpad-x1-carbon-disassembly-2/"
+			}, {
+				"guid": "aSuwdwThsNMm",
+				"title": "Lenovo Thinkpad X200 Disassembly (Clean Cooling Fan, Remove Keyboard) | MyFixGuide.com",
+				"index": 16,
+				"dateAdded": 1425284043000000,
+				"lastModified": 1440513347000000,
+				"id": 376,
+				"typeCode": 1,
+				"iconuri": "http://www.myfixguide.com/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://www.myfixguide.com/manual/lenovo-thinkpad-x200-disassembly-clean-cooling-fan-remove-keyboard/"
+			}, {
+				"guid": "niR0avdnLSAU",
+				"title": "BioLib Online Library of Biological Books",
+				"index": 17,
+				"dateAdded": 1466233461000000,
+				"lastModified": 1466233461000000,
+				"id": 377,
+				"typeCode": 1,
+				"charset": "windows-1252",
+				"iconuri": "http://www.biolib.de/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://biolib.de/"
+			}]
+		}, {
+			"guid": "X_ZPDzNd_fTG",
+			"title": "tut",
+			"index": 2,
+			"dateAdded": 1427802324000000,
+			"lastModified": 1514891926456000,
+			"id": 379,
+			"typeCode": 2,
+			"type": "text/x-moz-place-container",
+			"children": [{
+				"guid": "9LuM1U_crRNt",
+				"title": "CCC",
+				"index": 0,
+				"dateAdded": 1422432452000000,
+				"lastModified": 1440513347000000,
+				"id": 380,
+				"typeCode": 1,
+				"iconuri": "https://s.ytimg.com/yts/img/favicon_96-vfldSA3ca.png",
+				"type": "text/x-moz-place",
+				"uri": "https://www.youtube.com/channel/UC1Jnp8rErjUAygOfRMhP1Yg"
+			}, {
+				"guid": "rEKL5Dkg8FQe",
+				"title": "",
+				"index": 1,
+				"dateAdded": 1382951062000000,
+				"lastModified": 1440513347000000,
+				"id": 381,
+				"typeCode": 1,
+				"iconuri": "http://www.mozilla.org/2005/made-up-favicon/87-1440513347732",
+				"type": "text/x-moz-place",
+				"uri": "http://www.bentobox.io/"
+			}, {
+				"guid": "EBpuoTneL5TL",
+				"title": "",
+				"index": 2,
+				"dateAdded": 1362669451000000,
+				"lastModified": 1440513347000000,
+				"id": 382,
+				"typeCode": 1,
+				"iconuri": "https://cdn-production.codecademy.com/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://www.codecademy.com/de/learn"
+			}, {
+				"guid": "MIYXJ8gYJpL4",
+				"title": "",
+				"index": 3,
+				"dateAdded": 1370010551000000,
+				"lastModified": 1440513347000000,
+				"id": 383,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://coding.fm/"
+			}, {
+				"guid": "DU56YJvHIfWb",
+				"title": "",
+				"index": 4,
+				"dateAdded": 1366739999000000,
+				"lastModified": 1440513347000000,
+				"id": 384,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.codeschool.com/paths/javascript"
+			}, {
+				"guid": "7tKKOwiE4ip1",
+				"title": "",
+				"index": 5,
+				"dateAdded": 1391701691000000,
+				"lastModified": 1440513347000000,
+				"id": 385,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "https://www.codecoalition.com/"
+			}, {
+				"guid": "Gu0qznx4vc-L",
+				"title": "Code Hunt",
+				"index": 6,
+				"dateAdded": 1400229726000000,
+				"lastModified": 1440513347000000,
+				"id": 386,
+				"typeCode": 1,
+				"iconuri": "http://www.mozilla.org/2005/made-up-favicon/89-1440513347749",
+				"type": "text/x-moz-place",
+				"uri": "https://www.codehunt.com/"
+			}, {
+				"guid": "gPhfBKWodZIq",
+				"title": "Hex Invaders",
+				"index": 7,
+				"dateAdded": 1421132486000000,
+				"lastModified": 1440513347000000,
+				"id": 387,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.hexinvaders.com/"
+			}, {
+				"guid": "Ph-Zq7xH2EvY",
+				"title": "HTML",
+				"index": 8,
+				"dateAdded": 1427802324000000,
+				"lastModified": 1440513347000000,
+				"id": 388,
+				"typeCode": 2,
+				"type": "text/x-moz-place-container",
+				"children": [{
+					"guid": "PPVv4e9Q1kMr",
+					"title": "SELFHTML",
+					"index": 0,
+					"dateAdded": 1363255788000000,
+					"lastModified": 1440513347000000,
+					"id": 389,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://de.selfhtml.org/"
+				}, {
+					"guid": "aAfchSh-UjRg",
+					"title": "Capturing Audio & Video",
+					"index": 1,
+					"dateAdded": 1391352924000000,
+					"lastModified": 1440513347000000,
+					"id": 390,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://www.html5rocks.com/de/tutorials/getusermedia/intro/"
+				}, {
+					"guid": "fWt6OF3XHijE",
+					"title": "CSS Diner",
+					"index": 2,
+					"dateAdded": 1395908211000000,
+					"lastModified": 1440513347000000,
+					"id": 391,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://flukeout.github.io/"
+				}, {
+					"guid": "P6wqQOFcYSee",
+					"title": "Sticky Footer mit variabler Höhe im Responsive Webdesign? Kein Problem! » t3n",
+					"index": 3,
+					"dateAdded": 1396125589000000,
+					"lastModified": 1440513347000000,
+					"id": 392,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://t3n.de/news/sticky-footer-display-table-536687/?utm_content=buffera5bf0&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer"
+				}]
+			}, {
+				"guid": "0ApUeK7VqUyt",
+				"title": "TutsOwl - Node.js Screencasts With Passion ♥",
+				"index": 9,
+				"dateAdded": 1412088800000000,
+				"lastModified": 1440513347000000,
+				"id": 398,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.tutsowl.com/"
+			}, {
+				"guid": "1LZ28TvknxAn",
+				"title": "Programming with Python",
+				"index": 10,
+				"dateAdded": 1382193122000000,
+				"lastModified": 1440513347000000,
+				"id": 399,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://opentechschool.github.io/python-beginners/de/conditional_loops.html"
+			}, {
+				"guid": "F5iNKilEHyRs",
+				"title": "LaTeX",
+				"index": 11,
+				"dateAdded": 1351939647000000,
+				"lastModified": 1440513347000000,
+				"id": 400,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.cs.sfu.ca/~vis/Tasks/camera.html"
+			}, {
+				"guid": "0tUNTLXsfQUp",
+				"title": "10 hilfreiche Tutorials und Quellen für Webentwickler und -designer (Teil 1) » t3n",
+				"index": 12,
+				"dateAdded": 1399053193000000,
+				"lastModified": 1440513347000000,
+				"id": 401,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://t3n.de/news/webdev-tutorials-teil-1-542767/?utm_content=buffer75022&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer"
+			}, {
+				"guid": "KY_pYI8RR8oI",
+				"title": "Versionsverwaltung: In 2 Schritten zum eigenen Git-Server » t3n",
+				"index": 13,
+				"dateAdded": 1399728130000000,
+				"lastModified": 1440513347000000,
+				"id": 402,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://t3n.de/news/git-eigener-git-server-544264/?utm_content=buffer5c673&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer"
+			}, {
+				"guid": "SUo3aktIm55c",
+				"title": "MoMo",
+				"index": 14,
+				"dateAdded": 1427802324000000,
+				"lastModified": 1440513347000000,
+				"id": 403,
+				"typeCode": 2,
+				"type": "text/x-moz-place-container",
+				"children": [{
+					"guid": "lJ1K-uu7ydlQ",
+					"title": "Raspberry Pi --> iBeacon",
+					"index": 0,
+					"dateAdded": 1383660912000000,
+					"lastModified": 1440513347000000,
+					"id": 404,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://developer.radiusnetworks.com/2013/10/09/how-to-make-an-ibeacon-out-of-a-raspberry-pi.html"
+				}]
+			}, {
+				"guid": "Bmewxnq8-dR1",
+				"title": "An Introduction To Node.js And MongoDB",
+				"index": 15,
+				"dateAdded": 1401174260000000,
+				"lastModified": 1440513347000000,
+				"id": 405,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.smashingmagazine.com/2014/05/22/detailed-introduction-nodejs-mongodb/"
+			}, {
+				"guid": "1VS1tTRVdvM_",
+				"title": "Moving A Git Repository To A New Server",
+				"index": 16,
+				"dateAdded": 1401174959000000,
+				"lastModified": 1440513347000000,
+				"id": 406,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.smashingmagazine.com/2014/05/19/moving-git-repository-new-server/"
+			}, {
+				"guid": "Dbbo_cKEsFnl",
+				"title": "Raspbery Pi Mediacenter",
+				"index": 17,
+				"dateAdded": 1402830748000000,
+				"lastModified": 1440513347000000,
+				"id": 407,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.golem.de/news/raspberry-pi-xbian-vs-raspbmc-vs-openelec-vs-rasplex-1406-107074.html"
+			}, {
+				"guid": "hYU3hqf46YJk",
+				"title": "Videos von re:publica 2015 | re:publica",
+				"index": 18,
+				"dateAdded": 1461756020000000,
+				"lastModified": 1461756020000000,
+				"id": 408,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "https://re-publica.de/sites/re-publica.de/themes/rp16/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "https://re-publica.de/archive/15/sessions"
+			}]
+		}, {
+			"guid": "cthXnKNdzkgi",
+			"title": "news",
+			"index": 3,
+			"dateAdded": 1427802324000000,
+			"lastModified": 1466233625000000,
+			"id": 446,
+			"typeCode": 2,
+			"type": "text/x-moz-place-container",
+			"children": [{
+				"guid": "4eGhjHDXPUEc",
+				"title": "",
+				"index": 0,
+				"dateAdded": 1466061959000000,
+				"lastModified": 1466061976000000,
+				"id": 447,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "http://top-berlin.net/sites/all/themes/fusion/fusion_topberlin/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://top-berlin.net/"
+			}, {
+				"guid": "kHTMmV7XC-RZ",
+				"title": "",
+				"index": 1,
+				"dateAdded": 1466061989000000,
+				"lastModified": 1466061992000000,
+				"id": 448,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "http://www.nerdcore.de/favicon.png",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": "Wowcast 66: Game of Thrones 6x7/8 – The Broken Man/No One. Joy Divisions Unkown Pleasures made from Wood again. Weaves stream Weaves."
+				}],
+				"type": "text/x-moz-place",
+				"uri": "http://www.nerdcore.de/"
+			}, {
+				"guid": "cjyMCxtid0ji",
+				"title": "",
+				"index": 2,
+				"dateAdded": 1353151700000000,
+				"lastModified": 1440513347000000,
+				"id": 449,
+				"typeCode": 1,
+				"iconuri": "http://de.indymedia.org/sites/default/files/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://de.indymedia.org/"
+			}, {
+				"guid": "m27uDbt8bMXV",
+				"title": "",
+				"index": 3,
+				"dateAdded": 1352142665000000,
+				"lastModified": 1440513347000000,
+				"id": 450,
+				"typeCode": 1,
+				"iconuri": "https://boingboing.net/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://boingboing.net/"
+			}, {
+				"guid": "lF92Oy6HwsDC",
+				"title": "Golem.de: IT-News für Profis",
+				"index": 4,
+				"dateAdded": 1357915281000000,
+				"lastModified": 1440513347000000,
+				"id": 451,
+				"typeCode": 1,
+				"iconuri": "http://www.golem.de/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://www.golem.de/"
+			}, {
+				"guid": "XMhRNUT2iZpl",
+				"title": "Smashing Magazine",
+				"index": 5,
+				"dateAdded": 1361227364000000,
+				"lastModified": 1440513347000000,
+				"id": 452,
+				"typeCode": 1,
+				"iconuri": "https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/favicon.png",
+				"type": "text/x-moz-place",
+				"uri": "http://www.smashingmagazine.com/"
+			}, {
+				"guid": "5SRax1sxLjoM",
+				"title": "t3n",
+				"index": 6,
+				"dateAdded": 1466065356000000,
+				"lastModified": 1466065361000000,
+				"id": 453,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "http://d1quwwdmdfumn6.cloudfront.net/t3n-rebrush/images/core/icon/AppIcon152.png",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": "t3n ist das Print- und Online-Magazin für digitale Pioniere zu den Themen E-Business, Social Media, Startups und Webdesign."
+				}],
+				"type": "text/x-moz-place",
+				"uri": "http://t3n.de/"
+			}, {
+				"guid": "gmO13Oy1Zhfo",
+				"title": "Magazin für Computertechnik | c't Magazin",
+				"index": 7,
+				"dateAdded": 1466065403000000,
+				"lastModified": 1466065403000000,
+				"id": 454,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "http://www.heise.de/favicon_ct.ico",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": "Aktuelle IT-Nachrichten, Hardware- und Software-Tests, Know-how und Praxistipps zu Windows, Linux, Mac OS und Smartphones. Alle 14 Tage neu."
+				}],
+				"type": "text/x-moz-place",
+				"uri": "http://www.heise.de/ct/"
+			}, {
+				"guid": "3Y5sy5vVaCqD",
+				"title": "netzpolitik.org",
+				"index": 8,
+				"dateAdded": 1466065420000000,
+				"lastModified": 1466065428000000,
+				"id": 455,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "https://cdn.netzpolitik.org/wp-upload/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "https://netzpolitik.org/"
+			}, {
+				"guid": "q4F7EgKgSPwk",
+				"title": "Die PARTEI | Offizielle Seite des Bundesverbands",
+				"index": 9,
+				"dateAdded": 1466066447000000,
+				"lastModified": 1466066447000000,
+				"id": 456,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "https://www.die-partei.de/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "https://www.die-partei.de/"
+			}, {
+				"guid": "YLVyGUuPB0FB",
+				"title": "Smashing Magazine – For Professional Web Designers and Developers",
+				"index": 10,
+				"dateAdded": 1466066595000000,
+				"lastModified": 1466066595000000,
+				"id": 457,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "https://www.smashingmagazine.com/wp-content/themes/smashing-magazine/assets/images/favicon.png",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": "Smashing Magazine — for web designers and developers"
+				}],
+				"type": "text/x-moz-place",
+				"uri": "https://www.smashingmagazine.com/"
+			}, {
+				"guid": "FR2l6zNjc478",
+				"title": "PRO ASYL – Der Einzelfall zählt",
+				"index": 11,
+				"dateAdded": 1466066664000000,
+				"lastModified": 1466066664000000,
+				"id": 458,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "https://www.proasyl.de/wp-content/themes/proasyl/assets/images/app-icon/favicon.ico",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": "PRO ASYL setzt sich in Deutschland und Europa für die Rechte von Flüchtlingen und Migranten ein."
+				}],
+				"type": "text/x-moz-place",
+				"uri": "https://www.proasyl.de/"
+			}]
+		}, {
+			"guid": "7bpGLGjQOdvF",
+			"title": "",
+			"index": 4,
+			"dateAdded": 1461756303000000,
+			"lastModified": 1461756308000000,
+			"id": 445,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://www.dkb.de/favicon.ico",
+			"type": "text/x-moz-place",
+			"uri": "https://banking.dkb.de/banking"
+		}, {
+			"guid": "of5Qo5NKlGan",
+			"title": "",
+			"index": 5,
+			"dateAdded": 1461787955000000,
+			"lastModified": 1461787961000000,
+			"id": 444,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://banking.ing-diba.de/app/static/resource/android-chrome-512x512-ver-216AE41B6E484BD0AE291542657E0FDD.png",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "ING-DiBa Internetbanking + Brokerage"
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://banking.ing-diba.de/app/login?x=fhJhVuIPNgA-acLQ-7Kil-8iFpcIuqLildaMObWmmBZGqlgy8hQtn-4V2LkTw3nqa2B3Aw5ntKCG80H_HUE8_UA"
+		}, {
+			"guid": "HyswaD3PpWUp",
+			"title": "hoodie",
+			"index": 6,
+			"dateAdded": 1515505261464000,
+			"lastModified": 1520258638349000,
+			"id": 775,
+			"typeCode": 2,
+			"annos": [{
+				"name": "bookmarkPropertiesDialog/folderLastUsed",
+				"flags": 0,
+				"expires": 4,
+				"value": 1518606249659
+			}],
+			"type": "text/x-moz-place-container",
+			"children": [{
+				"guid": "stncIWyRwQsU",
+				"title": "ownCloud",
+				"index": 0,
+				"dateAdded": 1517834472576000,
+				"lastModified": 1517994934913000,
+				"id": 797,
+				"typeCode": 1,
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": ""
+				}],
+				"type": "text/x-moz-place",
+				"uri": "https://cloud.neighbourhood.ie/index.php/apps/files/"
+			}, {
+				"guid": "8pGwncWGYz8w",
+				"title": "GitHub - greenkeeper",
+				"index": 1,
+				"dateAdded": 1517483130164000,
+				"lastModified": 1517994946802000,
+				"id": 795,
+				"typeCode": 1,
+				"iconuri": "https://github.com/fluidicon.png",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": "greenkeeper - :palm_tree: send some pull requests"
+				}],
+				"type": "text/x-moz-place",
+				"uri": "https://github.com/greenkeeperio/greenkeeper"
+			}, {
+				"guid": "2rlKq_of2-Zl",
+				"title": "CouchDB 2.1 Documentation",
+				"index": 2,
+				"dateAdded": 1515505274955000,
+				"lastModified": 1515505295109000,
+				"id": 776,
+				"typeCode": 1,
+				"iconuri": "http://docs.couchdb.org/en/2.1.1/_static/favicon.ico",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": ""
+				}],
+				"type": "text/x-moz-place",
+				"uri": "http://docs.couchdb.org/en/2.1.1/"
+			}, {
+				"guid": "OGk0I0G1Qed8",
+				"title": "Project Fauxton",
+				"index": 3,
+				"dateAdded": 1515507664099000,
+				"lastModified": 1515507669235000,
+				"id": 777,
+				"typeCode": 1,
+				"iconuri": "http://127.0.0.1:5984/_utils/dashboard.assets/img/couchdb-logo.png",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": ""
+				}],
+				"type": "text/x-moz-place",
+				"uri": "http://127.0.0.1:5984/_utils/#setup"
+			}, {
+				"guid": "nqd7Gz_xBcMf",
+				"title": "greenkeeper Fauxton",
+				"index": 4,
+				"dateAdded": 1515596620402000,
+				"lastModified": 1515596636397000,
+				"id": 781,
+				"typeCode": 1,
+				"iconuri": "http://127.0.0.1:15984/_utils/dashboard.assets/img/couchdb-logo.png",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": ""
+				}],
+				"type": "text/x-moz-place",
+				"uri": "http://127.0.0.1:15984/_utils/#login"
+			}, {
+				"guid": "a0T1uDzBeY7w",
+				"title": "JavaScript loops — how to handle async/await – Anton Lavrenov’ Blog",
+				"index": 5,
+				"dateAdded": 1515772750372000,
+				"lastModified": 1515772755576000,
+				"id": 783,
+				"typeCode": 1,
+				"iconuri": "https://cdn-images-1.medium.com/fit/c/304/304/1*SYt2WI2KZPddeCHgoN_yPw.png",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": "We can write async/await loops in JavaScript in three different ways. All of them will give us different results."
+				}],
+				"type": "text/x-moz-place",
+				"uri": "https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795"
+			}, {
+				"guid": "YXMEH9eElPyA",
+				"title": "neighbourhoodie/gk-customer-check",
+				"index": 6,
+				"dateAdded": 1517390632608000,
+				"lastModified": 1517390635719000,
+				"id": 793,
+				"typeCode": 1,
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": "Contribute to gk-customer-check development by creating an account on GitHub."
+				}],
+				"type": "text/x-moz-place",
+				"uri": "https://github.com/neighbourhoodie/gk-customer-check"
+			}, {
+				"guid": "4SZsK6SDX7yk",
+				"title": "Expect · Jest",
+				"index": 7,
+				"dateAdded": 1517395418196000,
+				"lastModified": 1517395421451000,
+				"id": 794,
+				"typeCode": 1,
+				"iconuri": "https://facebook.github.io/jest/img/favicon/favicon.ico",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": ""
+				}],
+				"type": "text/x-moz-place",
+				"uri": "https://facebook.github.io/jest/docs/en/expect.html"
+			}, {
+				"guid": "tuTchsUkNhyu",
+				"title": "Mocking relative dependencies in Jest with jest.mock()",
+				"index": 8,
+				"dateAdded": 1517848557103000,
+				"lastModified": 1517848560528000,
+				"id": 798,
+				"typeCode": 1,
+				"iconuri": "http://madole.xyz/assets/images/apple-touch-icon-114x114.png?v=4f35f46dbc",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": ""
+				}],
+				"type": "text/x-moz-place",
+				"uri": "http://madole.xyz/mocking-relative-dependencies-in-jest-with-jest-mock/"
+			}, {
+				"guid": "6WD5T8iIrWdq",
+				"title": "Support jest config globalSetup and globalTeardown · Issue #411 · kulshekhar/ts-jest",
+				"index": 9,
+				"dateAdded": 1517931058779000,
+				"lastModified": 1517931063364000,
+				"id": 799,
+				"typeCode": 1,
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": "ts-jest - TypeScript preprocessor with sourcemap support for Jest"
+				}],
+				"type": "text/x-moz-place",
+				"uri": "https://github.com/kulshekhar/ts-jest/issues/411"
+			}, {
+				"guid": "gTyikgP8E8tt",
+				"title": "arrows.js",
+				"index": 10,
+				"dateAdded": 1518606243831000,
+				"lastModified": 1518606249653000,
+				"id": 800,
+				"typeCode": 1,
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": ""
+				}],
+				"type": "text/x-moz-place",
+				"uri": "https://gist.github.com/rmehner/20882ff6cf9aabb272472bd9d466debd"
+			}]
+		}, {
+			"guid": "QUqzAtJOBHeq",
+			"title": "projects",
+			"index": 7,
+			"dateAdded": 1492604463483000,
+			"lastModified": 1519303783438000,
+			"id": 724,
+			"typeCode": 2,
+			"type": "text/x-moz-place-container",
+			"children": [{
+				"guid": "DFcN1U-hnvC2",
+				"title": "ReactNative",
+				"index": 0,
+				"dateAdded": 1490354616940000,
+				"lastModified": 1516110880248000,
+				"id": 711,
+				"typeCode": 2,
+				"type": "text/x-moz-place-container",
+				"children": [{
+					"guid": "i-MzB6F0grGe",
+					"title": "Debugging",
+					"index": 0,
+					"dateAdded": 1486979245553000,
+					"lastModified": 1486979245556000,
+					"id": 689,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://facebook.github.io/react-native/img/favicon.png",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": ""
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://facebook.github.io/react-native/docs/debugging.html"
+				}, {
+					"guid": "jH4XqNDHUmRt",
+					"title": "documentation",
+					"index": 1,
+					"dateAdded": 1479813313093000,
+					"lastModified": 1479813322425000,
+					"id": 630,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://facebook.github.io/react-native/img/favicon.png?2",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": ""
+					}],
+					"type": "text/x-moz-place",
+					"uri": "http://facebook.github.io/react-native/docs/getting-started.html"
+				}, {
+					"guid": "KKItIQtUlPPb",
+					"title": "eslint-plugin-react-native/no-inline-styles",
+					"index": 2,
+					"dateAdded": 1488717076857000,
+					"lastModified": 1490379986191000,
+					"id": 698,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://github.com/fluidicon.png",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "eslint-plugin-react-native - React Native plugin for ESLint"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://github.com/Intellicode/eslint-plugin-react-native/blob/master/docs/rules/no-inline-styles.md"
+				}, {
+					"guid": "OiE4GZM6b_1F",
+					"title": "Introduction · react-native training",
+					"index": 3,
+					"dateAdded": 1486890313699000,
+					"lastModified": 1486890313703000,
+					"id": 687,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://unbug.gitbooks.io/react-native-training/content/gitbook/images/apple-touch-icon-precomposed-152.png",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": ""
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://unbug.gitbooks.io/react-native-training/content/"
+				}, {
+					"guid": "PGgGA3DQank3",
+					"title": "Flexbox Patterns",
+					"index": 4,
+					"dateAdded": 1485782555452000,
+					"lastModified": 1485782555475000,
+					"id": 671,
+					"typeCode": 1,
+					"charset": "windows-1252",
+					"iconuri": "http://www.flexboxpatterns.com/favicon-16x16.png",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": ""
+					}],
+					"type": "text/x-moz-place",
+					"uri": "http://www.flexboxpatterns.com/home"
+				}, {
+					"guid": "y9RSYp-jZS4Y",
+					"title": "React Native Debugger",
+					"index": 5,
+					"dateAdded": 1484584331200000,
+					"lastModified": 1484584331224000,
+					"id": 658,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAA9VJREFUWMPNV+dKJEEQnl93r3Avcfcavpe/zHlXzDmLYlZU1oSrYEDFsGZdVDBvUBTUuv6K6aZ34ioiW1BMT1dPdXWFr3oMI03q7u7+lZOTk5WbmxsQz5DgiOCEyRiHTFkW1hrfRXl5eX+E0qDgmGBKk7E2iG+/vHFZWdlvcaJswclPbJzC+BY6oOvTpxYfhr+6sYMh4bS9kZ+f/098EP2uzTUjoPNvOie3bV5YWEihUIjW1tZobGyMCgoKbBsUFxfT5OQkbWxs8FpxEEcjXD1hxtzR7cfHx/Tx8UGvr68ESiaTNDQ0pOTj4+P08vLCsufnZ167vb3tGg7HnECyOH1QU1PDimdmZvi9ra2Nrq6ueG59fZ22trZ4HI1GqbGxkdcsLy/T+/s7lZeXuxmR7eR6x2zv6+vjDaRysFhPq6urJGlpaQlKlbyrq4vn29vbXasjJRRmnTsuhqtBdXV1KfO6ATixLmttbeX53t5er8QM6gjnCjIdHR2sDKeSc4ODgyoEm5ubPIanpLy/v5/nmpqaPMGKERPQ6VU+wWCQlSERd3d3Of6ILxjJBpbvl5eXnBP7+/v8TWlpqV95ZhkmftuESKDFxUV6enpSrk4kEirLI5EIxx7ux4aYw1pZDaB4PE6zs7NUUlLilgsBw2wsKYKBgQFWBKVHR0d0cHDA45GREVY8NzenvAPGGMaAhoeH+Xl4eEjn5+eqbHt6epyMCBlmJ1OTIi68GdwpE6+lpUWd6P7+nqtgb29PnRRuB/BADtaTtrm5ma6vr+nt7Y2T02JAxDDbqZo8PT2lh4cHRj99HnMgIGEgECArId5TU1M8vrm5saEkwodQWQxI2Aw4OTmhx8dHmwE4OWh0dNTRAMRZGnB7e2szAGGA1yw5ELeFAOWGEFxcXFB1dbVyo4wlDAHoAGoloRwRglgsxqyXIABMhgChdAqBaxKitFB6YBgF9+tJWFFRoeA2HA6zDBiBtUhceBNjzyR0K0O4eWVlRTUgKLq7u2NlGO/s7PCmYGkgZHrZ4n1hYcEVD2QZegJRVVUVK0NJoSSRYBJ8JEkggqthmASiyspKfyDyg+LOzk5WhqcVinE/kD0BYUu3GaVAsV8zksBSW1ubMo/N9STUZQ0NDTajXJuRXzuWjUVvx+D5+XllAPLAqRsC1NJqx14XEpxcv5DAEIAVCHWNmIPOzs6ovr5eVQTyRMK074XE70omywmNCIQSxf1PyicmJlS1oAqw1go6vlcyr0tpUVERdzVcOLExkM26Bkg4PT3NfQHe+vSlNCOu5RnxY5IRv2YZ8XP6U7/n/wFyU6HBPUWxjAAAAABJRU5ErkJggg==",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": ""
+					}],
+					"type": "text/x-moz-place",
+					"uri": "http://localhost:8081/debugger-ui"
+				}, {
+					"guid": "-2XYE-BulGKw",
+					"title": "React Native Express - Uber",
+					"index": 6,
+					"dateAdded": 1483356071970000,
+					"lastModified": 1483356071993000,
+					"id": 645,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "http://www.reactnativeexpress.com/favicon.ico",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "Learn React Native with interactive examples."
+					}],
+					"type": "text/x-moz-place",
+					"uri": "http://www.reactnativeexpress.com/uber"
+				}, {
+					"guid": "hAys5JaRdUrd",
+					"title": "issues",
+					"index": 7,
+					"dateAdded": 1490379994933000,
+					"lastModified": 1493798720857000,
+					"id": 712,
+					"typeCode": 2,
+					"type": "text/x-moz-place-container",
+					"children": [{
+						"guid": "KBOB9roCA2C3",
+						"title": "maps blank in release apk /react-native-maps",
+						"index": 0,
+						"dateAdded": 1489069783421000,
+						"lastModified": 1489069803430000,
+						"id": 705,
+						"typeCode": 1,
+						"charset": "UTF-8",
+						"iconuri": "https://assets-cdn.github.com/favicon.ico",
+						"annos": [{
+							"name": "bookmarkProperties/description",
+							"flags": 0,
+							"expires": 4,
+							"value": "react-native-maps - React Native Mapview component for iOS + Android"
+						}],
+						"type": "text/x-moz-place",
+						"uri": "https://github.com/airbnb/react-native-maps/issues/327"
+					}, {
+						"guid": "BaGaHzloye3D",
+						"title": "Google Map Javascript API in react-native - Stack Overflow",
+						"index": 1,
+						"dateAdded": 1485885879073000,
+						"lastModified": 1485885879104000,
+						"id": 673,
+						"typeCode": 1,
+						"charset": "UTF-8",
+						"iconuri": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d",
+						"annos": [{
+							"name": "bookmarkProperties/description",
+							"flags": 0,
+							"expires": 4,
+							"value": ""
+						}],
+						"type": "text/x-moz-place",
+						"uri": "http://stackoverflow.com/questions/33256669/google-map-javascript-api-in-react-native"
+					}, {
+						"guid": "QDSSLtIDXnMe",
+						"title": "generate an apk that can run with react-native? ",
+						"index": 2,
+						"dateAdded": 1489069627679000,
+						"lastModified": 1489069643869000,
+						"id": 704,
+						"typeCode": 1,
+						"charset": "UTF-8",
+						"iconuri": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d",
+						"annos": [{
+							"name": "bookmarkProperties/description",
+							"flags": 0,
+							"expires": 4,
+							"value": ""
+						}],
+						"type": "text/x-moz-place",
+						"uri": "https://stackoverflow.com/questions/35935060/how-can-i-generate-an-apk-that-can-run-without-server-with-react-native/35935409"
+					}, {
+						"guid": "k7eknOvzfaQ1",
+						"title": "displaying debug certificate ",
+						"index": 3,
+						"dateAdded": 1490380249532000,
+						"lastModified": 1490380266690000,
+						"id": 713,
+						"typeCode": 1,
+						"charset": "UTF-8",
+						"iconuri": "https://developers.google.com/_static/44da291698/images/favicon.png",
+						"annos": [{
+							"name": "bookmarkProperties/description",
+							"flags": 0,
+							"expires": 4,
+							"value": ""
+						}],
+						"type": "text/x-moz-place",
+						"uri": "https://developers.google.com/maps/documentation/android-api/signup"
+					}]
+				}, {
+					"guid": "hzlvTuca_FJB",
+					"title": "Articles",
+					"index": 8,
+					"dateAdded": 1488794274079000,
+					"lastModified": 1492519950233000,
+					"id": 702,
+					"typeCode": 2,
+					"type": "text/x-moz-place-container",
+					"children": [{
+						"guid": "W1wxYHwViaP9",
+						"title": "Styled-Components: Enforcing Best Practices In Component-Based Systems – Smashing Magazine",
+						"index": 0,
+						"dateAdded": 1486750163944000,
+						"lastModified": 1486750163950000,
+						"id": 683,
+						"typeCode": 1,
+						"charset": "UTF-8",
+						"iconuri": "https://www.smashingmagazine.com/wp-content/themes/smashing-magazine/assets/images/favicon.png",
+						"annos": [{
+							"name": "bookmarkProperties/description",
+							"flags": 0,
+							"expires": 4,
+							"value": "Styled-components are used to enforce best practices by removing the mapping between styles and components, and include actual CSS in your JavaScript code."
+						}],
+						"type": "text/x-moz-place",
+						"uri": "https://www.smashingmagazine.com/2017/01/styled-components-enforcing-best-practices-component-based-systems/"
+					}, {
+						"guid": "rAOYMMqh6jOR",
+						"title": "Using a function in `setState` instead of an object – Medium",
+						"index": 1,
+						"dateAdded": 1486750178526000,
+						"lastModified": 1486750178543000,
+						"id": 684,
+						"typeCode": 1,
+						"charset": "UTF-8",
+						"iconuri": "https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico",
+						"annos": [{
+							"name": "bookmarkProperties/description",
+							"flags": 0,
+							"expires": 4,
+							"value": "The React documentation has recently been revamped — if you haven’t checked it out yet, you should! I have been helping out a little bit with the documentation by writing up a “Glossary of React…"
+						}],
+						"type": "text/x-moz-place",
+						"uri": "https://medium.com/@shopsifter/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1#.j2ii00jgb"
+					}, {
+						"guid": "SUpDXa_ZhL6z",
+						"title": "shouldcomponentupdate",
+						"index": 2,
+						"dateAdded": 1486891875881000,
+						"lastModified": 1486891893940000,
+						"id": 688,
+						"typeCode": 1,
+						"charset": "UTF-8",
+						"iconuri": "http://static.jsbin.com/images/favicon.png",
+						"annos": [{
+							"name": "bookmarkProperties/description",
+							"flags": 0,
+							"expires": 4,
+							"value": "A live pastebin for HTML, CSS & JavaScript and a range of processors, including SCSS, CoffeeScript, Jade and more..."
+						}],
+						"type": "text/x-moz-place",
+						"uri": "http://jsbin.com/munifapaso/edit?html,js,output"
+					}, {
+						"guid": "yWvOhnZ_95ae",
+						"title": "What’s Happening with Navigation in React Native?",
+						"index": 3,
+						"dateAdded": 1489071635318000,
+						"lastModified": 1489071635341000,
+						"id": 706,
+						"typeCode": 1,
+						"charset": "UTF-8",
+						"iconuri": "https://cdn-images-1.medium.com/fit/c/128/128/1*PpbKASWAJr0Din9D4ci-cA.png",
+						"annos": [{
+							"name": "bookmarkProperties/description",
+							"flags": 0,
+							"expires": 4,
+							"value": "When I began learning React Native the docs and developers said that to handle navigation between scenes in your app you should use Navigator and a depreciated component, NavigatorIOS, was no longer…"
+						}],
+						"type": "text/x-moz-place",
+						"uri": "https://blog.revisify.com/whats-happening-with-navigation-in-react-native-c193535888c3#.dnu9pu58e"
+					}, {
+						"guid": "zP2RTv_v7O4K",
+						"title": "Why You Should Consider React Native For Your Mobile App – Smashing Magazine",
+						"index": 4,
+						"dateAdded": 1466233507000000,
+						"lastModified": 1466233507000000,
+						"id": 564,
+						"typeCode": 1,
+						"charset": "UTF-8",
+						"iconuri": "https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/favicon.png",
+						"annos": [{
+							"name": "bookmarkProperties/description",
+							"flags": 0,
+							"expires": 4,
+							"value": "Clayton Anderson explains why you should consider using React Native, by providing an overview of the framework and its best features."
+						}],
+						"type": "text/x-moz-place",
+						"uri": "https://www.smashingmagazine.com/2016/04/consider-react-native-mobile-app/"
+					}]
+				}, {
+					"guid": "XHWWO2yS2ZDH",
+					"title": "Use React Native",
+					"index": 9,
+					"dateAdded": 1479812155004000,
+					"lastModified": 1479812155031000,
+					"id": 628,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "http://www.reactnative.com/assets/apple-touch-icon-180x180.png?v=8b4a2084a3",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "Build native iOS, Android and Windows apps with JavaScript"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "http://www.reactnative.com/"
+				}, {
+					"guid": "y4NqcPds79Ie",
+					"title": "Markdown",
+					"index": 10,
+					"dateAdded": 1487583933137000,
+					"lastModified": 1487583939237000,
+					"id": 690,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://de.wikipedia.org/static/favicon/wikipedia.ico",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": ""
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://de.wikipedia.org/wiki/Markdown"
+				}, {
+					"guid": "avNo__9wED8Z",
+					"title": "PermissionsAndroid",
+					"index": 11,
+					"dateAdded": 1488739262792000,
+					"lastModified": 1488739262797000,
+					"id": 701,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "http://facebook.github.io/react-native/releases/next/img/favicon.png?2",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": ""
+					}],
+					"type": "text/x-moz-place",
+					"uri": "http://facebook.github.io/react-native/releases/next/docs/permissionsandroid.html"
+				}, {
+					"guid": "QL0f3efqMvSN",
+					"title": "BackAndroid",
+					"index": 12,
+					"dateAdded": 1485238394707000,
+					"lastModified": 1485238394711000,
+					"id": 664,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://facebook.github.io/react-native/img/favicon.png?2",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": ""
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://facebook.github.io/react-native/docs/backandroid.html"
+				}, {
+					"guid": "wxHGNu1rPhT7",
+					"title": "Material Design Icons",
+					"index": 13,
+					"dateAdded": 1485440574063000,
+					"lastModified": 1485440587918000,
+					"id": 668,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://material.io/icons/static/images/icons-72x72.png",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "Material icons are beautifully crafted, delightful, and easy to use in your web, Android, and iOS projects."
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://material.io/icons/"
+				}, {
+					"guid": "XfXNMKkxw8Ek",
+					"title": "Simple Line Icons",
+					"index": 14,
+					"dateAdded": 1483463262180000,
+					"lastModified": 1483463262232000,
+					"id": 649,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "Simple line icons"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "http://simplelineicons.com/"
+				}, {
+					"guid": "gWJ_DVGr4Sod",
+					"title": "react-native-vector-icons",
+					"index": 15,
+					"dateAdded": 1484576364282000,
+					"lastModified": 1484577312032000,
+					"id": 657,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://assets-cdn.github.com/favicon.ico",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "react-native-vector-icons - Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full stying."
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://github.com/oblador/react-native-vector-icons"
+				}, {
+					"guid": "55vwyPj-vnfI",
+					"title": "react-native-maps",
+					"index": 16,
+					"dateAdded": 1477389735710000,
+					"lastModified": 1483380758837000,
+					"id": 616,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://github.com/fluidicon.png",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "react-native-maps - React Native Mapview component for iOS + Android"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://github.com/airbnb/react-native-maps"
+				}, {
+					"guid": "lWvuaOVroNEb",
+					"title": "Using CSS Flexible Boxes - CSS | MDN",
+					"index": 17,
+					"dateAdded": 1484301363978000,
+					"lastModified": 1484301363982000,
+					"id": 656,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://developer.cdn.mozilla.net/static/img/favicon32.e02854fdcf73.png",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "The CSS3 Flexible Box, or flexbox, is a layout mode providing for the arrangement of elements on a page such that the elements behave predictably when the page layout must accommodate different screen sizes and different display devices."
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes"
+				}, {
+					"guid": "NYmJUskMqMRD",
+					"title": "babel-eslint",
+					"index": 18,
+					"dateAdded": 1490438965863000,
+					"lastModified": 1490438976828000,
+					"id": 714,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://assets-cdn.github.com/favicon.ico",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "babel-eslint - :tokyo_tower: ESLint using Babel as the parser."
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://github.com/babel/babel-eslint"
+				}, {
+					"guid": "cQ2zUI1r8tT2",
+					"title": "Getting eslint right in React Native",
+					"index": 19,
+					"dateAdded": 1490441905532000,
+					"lastModified": 1490441915117000,
+					"id": 716,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://cdn-images-1.medium.com/fit/c/304/304/1*lKN9xV1YEin-2wfAiGySBA.png",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "Eslint is not new for React Native apps, but I admit that getting eslint to work seamlessly in React Native is not so trivial (yet?) and couldn’t find simple documentation on how to do this. The…"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://medium.com/the-react-native-log/getting-eslint-right-in-react-native-bd27524cc77b#.c2p62ua8o"
+				}, {
+					"guid": "zSJPrCUIkr38",
+					"title": "SDK Build Tools revision (23.0.1) is too low for project :Issue #68 ",
+					"index": 20,
+					"dateAdded": 1506268751482000,
+					"lastModified": 1506268774385000,
+					"id": 741,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://assets-cdn.github.com/favicon.ico",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "react-native-keychain - Keychain Access for React Native"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://github.com/oblador/react-native-keychain/issues/68"
+				}]
+			}, {
+				"guid": "2Kh_hHQdBWDo",
+				"title": "cm",
+				"index": 1,
+				"dateAdded": 1478101850673000,
+				"lastModified": 1514726379373000,
+				"id": 621,
+				"typeCode": 2,
+				"type": "text/x-moz-place-container",
+				"children": [{
+					"guid": "So5nwuPXOoH8",
+					"title": "haversine",
+					"index": 0,
+					"dateAdded": 1485883575421000,
+					"lastModified": 1490379786765000,
+					"id": 672,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://assets-cdn.github.com/favicon.ico",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "A simple haversine formula module for Node.js"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://github.com/njj/haversine/blob/master/haversine.js"
+				}, {
+					"guid": "D__82MRD5kKY",
+					"title": "Concerts and Festivals API | Songkick",
+					"index": 1,
+					"dateAdded": 1478101799155000,
+					"lastModified": 1478101799167000,
+					"id": 620,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://assets.sk-static.com/images/favicon.ico",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "Songkick allows you to organize and track your favorite bands, get concert alerts, and buy tickets. Get instant tour dates from your music library."
+					}],
+					"type": "text/x-moz-place",
+					"uri": "http://www.songkick.com/developer"
+				}, {
+					"guid": "nI9Ckde7x__C",
+					"title": "Directions Service Google Maps",
+					"index": 2,
+					"dateAdded": 1485961721271000,
+					"lastModified": 1490379768124000,
+					"id": 677,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://developers.google.com/_static/e595f2dbf9/images/favicon.png",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": ""
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://developers.google.com/maps/documentation/javascript/directions"
+				}, {
+					"guid": "ycCPH3SBsWY3",
+					"title": "Was geht in Berlin - Veranstaltungen | Konzerte",
+					"index": 3,
+					"dateAdded": 1478006341471000,
+					"lastModified": 1478006378196000,
+					"id": 618,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://www.wasgehtapp.de/favicon.ico?v=1",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "Was geht in Berlin? Alle Termine für Parties, Konzerte, Kino, Theater und viel mehr Veranstaltungen in Berlin und Umgebung"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://www.wasgehtapp.de/export_info.php"
+				}, {
+					"guid": "XrxDJrd7C6Pw",
+					"title": "API V2 Best Practices - Bandsintown",
+					"index": 4,
+					"dateAdded": 1478006391313000,
+					"lastModified": 1478006391331000,
+					"id": 619,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "http://www.bandsintown.com/favicon.ico",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "Bandsintown API best practices"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "http://www.bandsintown.com/api/best_practices"
+				}, {
+					"guid": "G91jdFevst_x",
+					"title": "react-native-dotenv",
+					"index": 5,
+					"dateAdded": 1488542524106000,
+					"lastModified": 1489065478660000,
+					"id": 695,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://github.com/fluidicon.png",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "react-native-dotenv - A Babel preset let you import application configs from .env file (zero runtime dependency)"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://github.com/zetachang/react-native-dotenv"
+				}, {
+					"guid": "rqTNletHh9JO",
+					"title": "react-native-audio-streaming: iOS & Android react native module to play an audio stream, with background support and media controls",
+					"index": 6,
+					"dateAdded": 1486403025992000,
+					"lastModified": 1490379730566000,
+					"id": 680,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://assets-cdn.github.com/favicon.ico",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "react-native-audio-streaming - iOS & Android react native module to play an audio stream, with background support and media controls"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://github.com/tlenclos/react-native-audio-streaming"
+				}, {
+					"guid": "iEJm0YE5PlZM",
+					"title": "mapbox/polyline",
+					"index": 7,
+					"dateAdded": 1485954086795000,
+					"lastModified": 1490379793319000,
+					"id": 676,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://assets-cdn.github.com/favicon.ico",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "polyline encoding and decoding in javascript"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://github.com/mapbox/polyline"
+				}]
+			}, {
+				"guid": "GXfHM661EDSe",
+				"title": "lunch",
+				"index": 2,
+				"dateAdded": 1490111131148000,
+				"lastModified": 1519303783437000,
+				"id": 709,
+				"typeCode": 2,
+				"type": "text/x-moz-place-container",
+				"children": [{
+					"guid": "SVAnV2ChqjeT",
+					"title": "Foursquare",
+					"index": 0,
+					"dateAdded": 1490111136667000,
+					"lastModified": 1490111136701000,
+					"id": 710,
+					"typeCode": 1,
+					"iconuri": "https://foursquare.com/favicon.ico",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": ""
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://foursquare.com/developers/app/NI4BXQFRIN21C5HY3LD0NVWP31UWTRVJPZAV1LWLIYEAEUIJ"
+				}, {
+					"guid": "E7LQ3fiVRUwp",
+					"title": "Build a lunch recommendation app — React Native School – React Native Development – Medium",
+					"index": 1,
+					"dateAdded": 1490109985422000,
+					"lastModified": 1490109985447000,
+					"id": 708,
+					"typeCode": 1,
+					"iconuri": "https://cdn-images-1.medium.com/fit/c/152/152/1*BEWiJlbozw80B7RvgbLmxg.png",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "You know those moments when you want to grab some lunch, a coffee, or drinks with friends, but nothing you can think of feels right? It’s gonna take an hour before you make moves and you’re hungry…"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://medium.com/react-native-development/build-a-lunch-recommendation-app-react-native-school-fdc05de70811#.wdw49b5ia"
+				}, {
+					"guid": "T0hvXTXkmnHi",
+					"title": "GitHub - styled-components/styled-components: Visual primitives for the component age 💅",
+					"index": 2,
+					"dateAdded": 1492520061725000,
+					"lastModified": 1492520061750000,
+					"id": 723,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "https://assets-cdn.github.com/favicon.ico",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "styled-components - Visual primitives for the component age 💅"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://github.com/styled-components/styled-components"
+				}, {
+					"guid": "KrnPXOSXkEL4",
+					"title": "react-native-intro-mobx/Home.js",
+					"index": 3,
+					"dateAdded": 1512986491543000,
+					"lastModified": 1512986512290000,
+					"id": 760,
+					"typeCode": 1,
+					"iconuri": "https://github.com/fluidicon.png",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "react-native-intro-mobx - A simple introduction to mobx in react native"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://github.com/madhu314/react-native-intro-mobx/blob/master/src/Home.js"
+				}]
+			}, {
+				"guid": "4uFSw_7HXedd",
+				"title": "React Native Navigation",
+				"index": 3,
+				"dateAdded": 1514893592056000,
+				"lastModified": 1514893601197000,
+				"id": 770,
+				"typeCode": 1,
+				"iconuri": "https://wix.github.io/react-native-navigation/_images/favicon.ico",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": "React Native Navigation - truly native navigation for iOS and Android"
+				}],
+				"type": "text/x-moz-place",
+				"uri": "https://wix.github.io/react-native-navigation/#/"
+			}]
+		}, {
+			"guid": "sZ1NY2DkT2NR",
+			"title": "Master",
+			"index": 8,
+			"dateAdded": 1514891949763000,
+			"lastModified": 1520178392673000,
+			"id": 762,
+			"typeCode": 2,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "Quellen\n"
+			}, {
+				"name": "bookmarkPropertiesDialog/folderLastUsed",
+				"flags": 0,
+				"expires": 4,
+				"value": 1519303759046
+			}],
+			"type": "text/x-moz-place-container",
+			"children": [{
+				"guid": "OBXJvfcaaumJ",
+				"title": "Recherche",
+				"index": 0,
+				"dateAdded": 1516451895969000,
+				"lastModified": 1520178392673000,
+				"id": 790,
+				"typeCode": 2,
+				"annos": [{
+					"name": "bookmarkPropertiesDialog/folderLastUsed",
+					"flags": 0,
+					"expires": 4,
+					"value": 1520178325863
+				}],
+				"type": "text/x-moz-place-container",
+				"children": [{
+					"guid": "r7I8gjxHjtrV",
+					"title": "Strategien",
+					"index": 0,
+					"dateAdded": 1519303768054000,
+					"lastModified": 1520178392680000,
+					"id": 802,
+					"typeCode": 2,
+					"annos": [{
+						"name": "bookmarkPropertiesDialog/folderLastUsed",
+						"flags": 0,
+						"expires": 4,
+						"value": 1520178392679
+					}],
+					"type": "text/x-moz-place-container",
+					"children": [{
+						"guid": "NqqOxrV_gv2j",
+						"title": "Operational transformation - Wikipedia",
+						"index": 0,
+						"dateAdded": 1519303756249000,
+						"lastModified": 1519303768108000,
+						"id": 801,
+						"typeCode": 1,
+						"iconuri": "https://en.wikipedia.org/static/apple-touch/wikipedia.png",
+						"type": "text/x-moz-place",
+						"uri": "https://en.wikipedia.org/wiki/Operational_transformation"
+					}, {
+						"guid": "1qHPxiQRMfo6",
+						"title": "Operational Transformation – OT Explained",
+						"index": 1,
+						"dateAdded": 1519303780654000,
+						"lastModified": 1519303783421000,
+						"id": 803,
+						"typeCode": 1,
+						"type": "text/x-moz-place",
+						"uri": "https://operational-transformation.github.io/"
+					}, {
+						"guid": "wmwXP7Ujvl8t",
+						"title": "Conflict Resolution: Using Last-Write-Wins vs. CRDTs - DZone Database",
+						"index": 2,
+						"dateAdded": 1519303940310000,
+						"lastModified": 1519303944621000,
+						"id": 804,
+						"typeCode": 1,
+						"iconuri": "https://dzone.com/themes/dz20/images/favicon.ico",
+						"annos": [{
+							"name": "bookmarkProperties/description",
+							"flags": 0,
+							"expires": 4,
+							"value": "Learn about two common techniques for resolving conflicts in your database: last-write-wins (LWW) and conflict-free replicated data types (CRDTs)."
+						}],
+						"type": "text/x-moz-place",
+						"uri": "https://dzone.com/articles/conflict-resolution-using-last-write-wins-vs-crdts"
+					}, {
+						"guid": "wQIlE6xVoxRV",
+						"title": "A Look at Conflict-Free Replicated Data Types (CRDT)",
+						"index": 3,
+						"dateAdded": 1519567692727000,
+						"lastModified": 1519567695778000,
+						"id": 812,
+						"typeCode": 1,
+						"annos": [{
+							"name": "bookmarkProperties/description",
+							"flags": 0,
+							"expires": 4,
+							"value": "You may have heard about CRDTs in the past few years if you are into distributed systems. In this post I will give a brief summary of what they are and what kind of guarantees they provide. In short…"
+						}],
+						"type": "text/x-moz-place",
+						"uri": "https://medium.com/@istanbul_techie/a-look-at-conflict-free-replicated-data-types-crdt-221a5f629e7e"
+					}, {
+						"guid": "dHa8LpGBO0Z2",
+						"title": "BEUTH: Concurrency control in groupware systems",
+						"index": 4,
+						"dateAdded": 1520173664087000,
+						"lastModified": 1520173674728000,
+						"id": 813,
+						"typeCode": 1,
+						"type": "text/x-moz-place",
+						"uri": "https://dl.acm.org/citation.cfm?doid=67544.66963"
+					}, {
+						"guid": "7w0EOfH-wNd1",
+						"title": "Differential Synchronization - YouTube",
+						"index": 5,
+						"dateAdded": 1520178322792000,
+						"lastModified": 1520178327836000,
+						"id": 815,
+						"typeCode": 1,
+						"type": "text/x-moz-place",
+						"uri": "https://www.youtube.com/watch?v=S2Hp_1jqpY8"
+					}, {
+						"guid": "ZdPL4gDlDvy1",
+						"title": "BEUTH? An Admissibility-Based Operational Transformation Framework for Collaborative Editing Systems | SpringerLink",
+						"index": 6,
+						"dateAdded": 1520178383815000,
+						"lastModified": 1520178392673000,
+						"id": 816,
+						"typeCode": 1,
+						"iconuri": "https://link.springer.com/springerlink-static/842897152/images/favicon/app-icon-iphone@3x.png",
+						"annos": [{
+							"name": "bookmarkProperties/description",
+							"flags": 0,
+							"expires": 4,
+							"value": "Operational transformation (OT) as a consistency control method has been well accepted in group editors. With OT, the users can edit any part of a shared document at any time and local responsiveness..."
+						}],
+						"type": "text/x-moz-place",
+						"uri": "https://link.springer.com/article/10.1007%2Fs10606-009-9103-1"
+					}]
+				}, {
+					"guid": "lyqGixMV_phL",
+					"title": "Introducing Redux Offline",
+					"index": 1,
+					"dateAdded": 1514891962435000,
+					"lastModified": 1516451958877000,
+					"id": 763,
+					"typeCode": 1,
+					"iconuri": "https://cdn-images-1.medium.com/fit/c/304/304/1*76XiKOa05Yya6_CdYX8pVg.jpeg",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "This post is a long-form trip report from the depths of building offline-friendly web and mobile applications. If you’re looking to understand the benefits and challenges of Offline-friendly apps…"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0"
+				}, {
+					"guid": "hyzBDOLs8_u3",
+					"title": "Redux vs MobX",
+					"index": 2,
+					"dateAdded": 1514892150135000,
+					"lastModified": 1516451962322000,
+					"id": 765,
+					"typeCode": 1,
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "Using Redux or MobX in your React application? The article shows you all the differences between both state management libraries that can be used in React. It gives you guidance to learn MobX vs Redux in React.js applications, their strengths and weaknesses and when to use them ..."
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://www.robinwieruch.de/redux-mobx-confusion/"
+				}, {
+					"guid": "DibV1O6rNSFe",
+					"title": "Redux-Persist Store Your State in LocalStorage",
+					"index": 3,
+					"dateAdded": 1514892805155000,
+					"lastModified": 1516451963597000,
+					"id": 766,
+					"typeCode": 1,
+					"iconuri": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "Isn’t it funny how “advances in technology” which are meant to make our lives easier often end up causing more complications? React and Redux are amazing and incredibly useful tools, but it can be…"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://medium.com/@clrksanford/persist-ence-is-key-using-redux-persist-to-store-your-state-in-localstorage-ac6a000aee63"
+				}, {
+					"guid": "MdfPrD1h6Mjs",
+					"title": "Offline First Apps with React Native and Redux",
+					"index": 4,
+					"dateAdded": 1514893063731000,
+					"lastModified": 1516451965244000,
+					"id": 767,
+					"typeCode": 1,
+					"iconuri": "https://rationalappdev.com/wp-content/uploads/2016/09/cropped-favicon-192x192.png",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "Learn how to build offline first mobile apps with React Native and Redux."
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://rationalappdev.com/offline-first-apps-with-react-native-and-redux/"
+				}, {
+					"guid": "5gGpWxZxKhXD",
+					"title": "A cartoon intro to Redux",
+					"index": 5,
+					"dateAdded": 1514894953611000,
+					"lastModified": 1516451967894000,
+					"id": 771,
+					"typeCode": 1,
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "One thing that causes even more confusion than Flux is the difference between Flux and Redux, a pattern that was inspired by Flux. In this article I’ll explain the differences between the two. Just…"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6"
+				}, {
+					"guid": "4iSGxzyMdahs",
+					"title": "Handling Offline Actions in React Native",
+					"index": 6,
+					"dateAdded": 1515165594419000,
+					"lastModified": 1516451969359000,
+					"id": 773,
+					"typeCode": 1,
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "A few weeks ago I wrote about building offline first react native apps and left the post with a question — “How would you handle actions taken while offline and sync them with the server the next…"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://medium.com/differential/handling-offline-actions-in-react-native-74949cbfabf2"
+				}, {
+					"guid": "1FY7jNWwLVPJ",
+					"title": "Building Offline First React Native Apps",
+					"index": 7,
+					"dateAdded": 1515165705244000,
+					"lastModified": 1516451970694000,
+					"id": 774,
+					"typeCode": 1,
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "When building a mobile app it’s reasonable to expect that a user will, at some point, use your app without an internet connection. How does your react native app handle that situation? Does it sit on…"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://medium.com/differential/building-offline-first-react-native-apps-b958acac0009"
+				}, {
+					"guid": "TZl137G3NqlJ",
+					"title": "Using React and Preact to Build My First Offline First Apps",
+					"index": 8,
+					"dateAdded": 1515515365912000,
+					"lastModified": 1516451972882000,
+					"id": 779,
+					"typeCode": 1,
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "Losing connectivity — we’ve all been there. Whether it happens while we’re attempting to load up a playlist in the gym, watch a video on the road, or play a mobile game inside a building, the effect…"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://medium.com/offline-camp/using-react-and-preact-to-build-my-first-offline-first-apps-8df4a1e5471b"
+				}, {
+					"guid": "BdBngMVKzsa7",
+					"title": "CouchDB, PouchDB and Hoodie as a Stack for Progressive Web Apps",
+					"index": 9,
+					"dateAdded": 1515515663701000,
+					"lastModified": 1516451973980000,
+					"id": 780,
+					"typeCode": 1,
+					"iconuri": "https://cdn-images-1.medium.com/fit/c/152/152/1*ZpTeX-zvgD9BLoSHrW3cnw.png",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "An offline-first design pattern with conflict management baked in at every level"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://medium.com/offline-camp/couchdb-pouchdb-and-hoodie-as-a-stack-for-progressive-web-apps-a6078a985f18"
+				}, {
+					"guid": "vSTkc-FxWhW1",
+					"title": "How Hoodie Works — Hoodie documentation",
+					"index": 10,
+					"dateAdded": 1516110875777000,
+					"lastModified": 1516451975329000,
+					"id": 786,
+					"typeCode": 1,
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": ""
+					}],
+					"type": "text/x-moz-place",
+					"uri": "http://docs.hood.ie/en/latest/about/how-hoodie-works.html"
+				}, {
+					"guid": "pdylMF2hooTj",
+					"title": "Designing Offline-First Web Apps · An A List Apart Article",
+					"index": 11,
+					"dateAdded": 1516184485841000,
+					"lastModified": 1516451976950000,
+					"id": 787,
+					"typeCode": 1,
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "We assume our users are like us—with the latest devices, the most recent software, and the fastest connections. And while we may maintain a veritable zoo of older devices and browsers for testing, we spend most of our time building from the comfort of our modern, always-online desktop devices. But what happens when our users descend into the subway, board a plane, go to live in the country, or just happen to find themselves in the wrong corner of the room? The truth is, offline is a fact of life—but there are ways to design for it. Alex Feyerke tells all."
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://alistapart.com/article/offline-first"
+				}, {
+					"guid": "XI1SrTyOZ3XI",
+					"title": "Offline First",
+					"index": 12,
+					"dateAdded": 1519308945805000,
+					"lastModified": 1519308948897000,
+					"id": 805,
+					"typeCode": 1,
+					"iconuri": "http://offlinefirst.org/images/apple-touch-icon-152x152.png",
+					"type": "text/x-moz-place",
+					"uri": "http://offlinefirst.org/"
+				}, {
+					"guid": "0S20IfNtrELu",
+					"title": "Realm Platform",
+					"index": 13,
+					"dateAdded": 1519309094873000,
+					"lastModified": 1519309097072000,
+					"id": 806,
+					"typeCode": 1,
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "A flexible platform for creating offline-first, reactive mobile apps effortlessly. Realm Overview "
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://realm.io/products/realm-platform/"
+				}, {
+					"guid": "obhI6niwGMT_",
+					"title": "Offline First - YouTube-Jan",
+					"index": 14,
+					"dateAdded": 1519309143855000,
+					"lastModified": 1519309150343000,
+					"id": 807,
+					"typeCode": 1,
+					"iconuri": "https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png",
+					"type": "text/x-moz-place",
+					"uri": "https://www.youtube.com/watch?v=7mdG-iAizVc"
+				}, {
+					"guid": "NXSZf64oGIuI",
+					"title": "Offline-First Apps with PouchDB at Node.js Interactive // Speaker Deck",
+					"index": 15,
+					"dateAdded": 1519309202232000,
+					"lastModified": 1519309204913000,
+					"id": 808,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "https://speakerdeck.com/bradleyholt/offline-first-apps-with-pouchdb-at-node-dot-js-interactive"
+				}, {
+					"guid": "fA1NhY2uM7Tw",
+					"title": "Offline First (Web) Apps - Beuth-Hochschule Berlin // Speaker Deck",
+					"index": 16,
+					"dateAdded": 1519309267839000,
+					"lastModified": 1519309271501000,
+					"id": 809,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "https://speakerdeck.com/espylaub/offline-first-web-apps-beuth-hochschule-berlin"
+				}, {
+					"guid": "dvtSjmVmY936",
+					"title": "Offline First Web Applications - Google Präsentationen",
+					"index": 17,
+					"dateAdded": 1519309359622000,
+					"lastModified": 1519309361896000,
+					"id": 810,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "https://docs.google.com/presentation/d/1gDGIyGtXMSmtT8WsyXj7ADyUjNV679T1BF5QGEKqooc/mobilepresent#slide=id.gb7f243163_0_53"
+				}, {
+					"guid": "JjSnRxT6BEe0",
+					"title": "GitHub - pazguille/offline-first: Everything you need to know to create offline-first web apps.",
+					"index": 18,
+					"dateAdded": 1519309731118000,
+					"lastModified": 1519309734351000,
+					"id": 811,
+					"typeCode": 1,
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": ":electric_plug: Everything you need to know to create offline-first web apps."
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://github.com/pazguille/offline-first"
+				}, {
+					"guid": "FxE3bRCw0-oA",
+					"title": "Neil Fraser: Writing: Differential Synchronization",
+					"index": 19,
+					"dateAdded": 1520177776532000,
+					"lastModified": 1520177780159000,
+					"id": 814,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "https://neil.fraser.name/writing/sync/"
+				}]
+			}, {
+				"guid": "fSDrEahVlpgC",
+				"title": "CouchDB: Die Definitive Referenz",
+				"index": 1,
+				"dateAdded": 1515513161171000,
+				"lastModified": 1516451995587000,
+				"id": 778,
+				"typeCode": 1,
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": ""
+				}],
+				"type": "text/x-moz-place",
+				"uri": "http://guide.couchdb.org/editions/1/de/index.html"
+			}, {
+				"guid": "Kytl1ve-n-aI",
+				"title": "GitHub - rt2zz/redux-persist",
+				"index": 2,
+				"dateAdded": 1514893247265000,
+				"lastModified": 1516451986612000,
+				"id": 768,
+				"typeCode": 1,
+				"iconuri": "https://github.com/fluidicon.png",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": "redux-persist - persist and rehydrate a redux store"
+				}],
+				"type": "text/x-moz-place",
+				"uri": "https://github.com/rt2zz/redux-persist"
+			}, {
+				"guid": "BPloBcWLm38E",
+				"title": "GitHub - redux-offline",
+				"index": 3,
+				"dateAdded": 1514891987859000,
+				"lastModified": 1516451982153000,
+				"id": 764,
+				"typeCode": 1,
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": "redux-offline - Build Offline-First Apps for Web and React Native"
+				}],
+				"type": "text/x-moz-place",
+				"uri": "https://github.com/redux-offline/redux-offline"
+			}]
+		}, {
+			"guid": "2CrVSuMrPJqS",
+			"title": "fh",
+			"index": 9,
+			"dateAdded": 1427802324000000,
+			"lastModified": 1519906897058000,
+			"id": 465,
+			"typeCode": 2,
+			"annos": [{
+				"name": "bookmarkPropertiesDialog/folderLastUsed",
+				"flags": 0,
+				"expires": 4,
+				"value": 1516104965766
+			}],
+			"type": "text/x-moz-place-container",
+			"children": [{
+				"guid": "V6MG-WazLiN2",
+				"title": "Mensa",
+				"index": 0,
+				"dateAdded": 1387360818000000,
+				"lastModified": 1440513347000000,
+				"id": 466,
+				"typeCode": 1,
+				"iconuri": "http://www2.studentenwerk-berlin.de/images2013/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://www.studentenwerk-berlin.de/cn/mensen/speiseplan/beuth/"
+			}, {
+				"guid": "iPDLqrRla7mn",
+				"title": "CodePen",
+				"index": 1,
+				"dateAdded": 1460201945000000,
+				"lastModified": 1460201945000000,
+				"id": 473,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "https://production-assets.codepen.io/assets/favicon/favicon-8ea04875e70c4b0bb41da869e81236e54394d63638a1ef12fa558a4a835f1164.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://codepen.io/"
+			}, {
+				"guid": "ywKUJHIEEz5f",
+				"title": "LaTeX",
+				"index": 2,
+				"dateAdded": 1487596449603000,
+				"lastModified": 1514891995617000,
+				"id": 692,
+				"typeCode": 2,
+				"type": "text/x-moz-place-container",
+				"children": [{
+					"guid": "3odAzIO7NgWd",
+					"title": "LaTeX Fonts",
+					"index": 0,
+					"dateAdded": 1487596437668000,
+					"lastModified": 1487596444917000,
+					"id": 691,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "http://www.tug.dk/FontCatalogue/favic.gif",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": ""
+					}],
+					"type": "text/x-moz-place",
+					"uri": "http://www.tug.dk/FontCatalogue/"
+				}, {
+					"guid": "NoJqqZ3MdXsV",
+					"title": "BibTeX Style Examples",
+					"index": 1,
+					"dateAdded": 1490015912431000,
+					"lastModified": 1490015912433000,
+					"id": 707,
+					"typeCode": 1,
+					"charset": "windows-1252",
+					"iconuri": "https://www.verbosus.com/verbosus.ico",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": "Write scientific documents in LaTeX and perform mathematical calculations in Octave. Visualize the result in a PDF (LaTeX) or in a plot (Octave)"
+					}],
+					"type": "text/x-moz-place",
+					"uri": "https://www.verbosus.com/bibtex-style-examples.html"
+				}, {
+					"guid": "PGpjnVouTGOV",
+					"title": "titlesec.pdf",
+					"index": 2,
+					"dateAdded": 1493031272687000,
+					"lastModified": 1493031282431000,
+					"id": 726,
+					"typeCode": 1,
+					"charset": "UTF-8",
+					"iconuri": "http://ftp.gwdg.de/favicon.ico",
+					"annos": [{
+						"name": "bookmarkProperties/description",
+						"flags": 0,
+						"expires": 4,
+						"value": ""
+					}],
+					"type": "text/x-moz-place",
+					"uri": "http://ftp.gwdg.de/pub/ctan/macros/latex/contrib/titlesec/titlesec.pdf"
+				}]
+			}, {
+				"guid": "uD71qjpPqpD2",
+				"title": "atm",
+				"index": 3,
+				"dateAdded": 1451982243000000,
+				"lastModified": 1451982255000000,
+				"id": 479,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"type": "text/x-moz-place",
+				"uri": "http://schirmacher.beuth-hochschule.de/lehre/atm-2015ws.html"
+			}, {
+				"guid": "_5arM-kV-n8q",
+				"title": "fpa",
+				"index": 4,
+				"dateAdded": 1427802324000000,
+				"lastModified": 1440513347000000,
+				"id": 501,
+				"typeCode": 2,
+				"type": "text/x-moz-place-container",
+				"children": [{
+					"guid": "uoE4OcZrVirJ",
+					"title": "JU Tut",
+					"index": 0,
+					"dateAdded": 1354700440000000,
+					"lastModified": 1440513347000000,
+					"id": 502,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://www.vogella.com/articles/JUnit/article.html"
+				}, {
+					"guid": "m6PPvjfteRma",
+					"title": "siamak haschemi - YouTube",
+					"index": 1,
+					"dateAdded": 1351889796000000,
+					"lastModified": 1440513347000000,
+					"id": 503,
+					"typeCode": 1,
+					"iconuri": "http://www.mozilla.org/2005/made-up-favicon/38-1440513347608",
+					"type": "text/x-moz-place",
+					"uri": "http://www.youtube.com/results?search_query=siamak+haschemi&oq=siamak+hasche&gs_l=youtube.3.0.0.14102.18403.0.19874.17.10.2.5.6.0.78.629.10.10.0...0.0...1ac.1.r67g6Q-_yyE"
+				}, {
+					"guid": "DqMBPUSI8Bff",
+					"title": "Eclipse Workbench: Using the Selection Service",
+					"index": 2,
+					"dateAdded": 1352760914000000,
+					"lastModified": 1440513347000000,
+					"id": 504,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://www.eclipse.org/articles/Article-WorkbenchSelections/article.html"
+				}, {
+					"guid": "3mV3CuW6_tXS",
+					"title": "FAQ How do I make a view respond to selection changes in another view? - Eclipsepedia",
+					"index": 3,
+					"dateAdded": 1352760928000000,
+					"lastModified": 1440513347000000,
+					"id": 505,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://wiki.eclipse.org/FAQ_How_do_I_make_a_view_respond_to_selection_changes_in_another_view%3F"
+				}, {
+					"guid": "P4uRk8TtrXFx",
+					"title": "Layouts in SWT",
+					"index": 4,
+					"dateAdded": 1352935861000000,
+					"lastModified": 1440513347000000,
+					"id": 506,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://www.eclipse.org/articles/article.php?file=Article-Understanding-Layouts/index.html"
+				}, {
+					"guid": "LmFEdR1y4m-u",
+					"title": "Java Programmieren Tutorial",
+					"index": 5,
+					"dateAdded": 1356272353000000,
+					"lastModified": 1440513347000000,
+					"id": 507,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://panjutorials.de/tutorials/java-programmieren-fur-anfanger/"
+				}]
+			}, {
+				"guid": "JlVtQxPEa2QD",
+				"title": "zxcvbn",
+				"index": 5,
+				"dateAdded": 1516104952931000,
+				"lastModified": 1516104965773000,
+				"id": 785,
+				"typeCode": 1,
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": ""
+				}],
+				"type": "text/x-moz-place",
+				"uri": "https://lowe.github.io/tryzxcvbn/"
+			}]
+		}, {
+			"guid": "b4Q9o4qzG83i",
+			"title": "",
+			"index": 10,
+			"dateAdded": 1488737368599000,
+			"lastModified": 1488737374557000,
+			"id": 700,
+			"typeCode": 1,
+			"charset": "windows-1252",
+			"iconuri": "https://www.webpagefx.com/tools/emoji-cheat-sheet/favicon.ico",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "Emoji codes used by GitHub, Basecamp, Slack and other services. Searchable. With emoji meanings."
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://www.webpagefx.com/tools/emoji-cheat-sheet/"
+		}, {
+			"guid": "D-CqyIMWvnuW",
+			"title": "",
+			"index": 11,
+			"dateAdded": 1461012308000000,
+			"lastModified": 1479111977950000,
+			"id": 470,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://cgmgit.beuth-hochschule.de/assets/touch-icon-ipad-retina-8ebe416f5313483d9c1bc772b5bbe03ecad52a54eba443e5215a22caed2a16a2.png",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "GitLab Community Edition"
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://cgmgit.beuth-hochschule.de/"
+		}, {
+			"guid": "8y6OMU_1ii5f",
+			"title": "",
+			"index": 12,
+			"dateAdded": 1483185250396000,
+			"lastModified": 1483185253030000,
+			"id": 644,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://github.com/fluidicon.png",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "GitHub is where people build software. More than 19 million people use GitHub to discover, fork, and contribute to over 49 million projects."
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://github.com/login"
+		}, {
+			"guid": "s4U0a96Aos2X",
+			"title": "",
+			"index": 13,
+			"dateAdded": 1486809389131000,
+			"lastModified": 1486809394425000,
+			"id": 686,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "Welcome to Medium, a place to read, write, and interact with the stories that matter most to you. Every day, thousands of voices read, write, and share important stories on Medium."
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://medium.com/"
+		}, {
+			"guid": "uG6xCCMb0sAC",
+			"title": "",
+			"index": 14,
+			"dateAdded": 1425645293000000,
+			"lastModified": 1440513347000000,
+			"id": 578,
+			"typeCode": 1,
+			"iconuri": "https://www.openthesaurus.de/static/images/favicon_openthesaurus.ico",
+			"type": "text/x-moz-place",
+			"uri": "https://www.openthesaurus.de/"
+		}, {
+			"guid": "cqgKDAqgEI6c",
+			"title": "tools",
+			"index": 15,
+			"dateAdded": 1427802324000000,
+			"lastModified": 1492519950233000,
+			"id": 529,
+			"typeCode": 2,
+			"type": "text/x-moz-place-container",
+			"children": [{
+				"guid": "-N4Ei4q06Er1",
+				"title": "IT eBooks",
+				"index": 0,
+				"dateAdded": 1420291775000000,
+				"lastModified": 1440513347000000,
+				"id": 530,
+				"typeCode": 1,
+				"iconuri": "http://www.it-ebooks.info/images/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://www.it-ebooks.info/"
+			}, {
+				"guid": "ete42LKvRb1s",
+				"title": "",
+				"index": 1,
+				"dateAdded": 1400787773000000,
+				"lastModified": 1440513347000000,
+				"id": 531,
+				"typeCode": 1,
+				"iconuri": "https://cloudconvert.com/assets/af2013f6/img/logo_flat_32.png",
+				"type": "text/x-moz-place",
+				"uri": "https://cloudconvert.org/"
+			}, {
+				"guid": "987Lr09us_v1",
+				"title": "Isotope",
+				"index": 2,
+				"dateAdded": 1383760255000000,
+				"lastModified": 1440513347000000,
+				"id": 532,
+				"typeCode": 1,
+				"iconuri": "http://www.mozilla.org/2005/made-up-favicon/80-1440513347704",
+				"type": "text/x-moz-place",
+				"uri": "http://isotope.metafizzy.co/"
+			}, {
+				"guid": "O0MRiOFXORQ_",
+				"title": "colourcode - find your colour scheme",
+				"index": 3,
+				"dateAdded": 1384276572000000,
+				"lastModified": 1440513347000000,
+				"id": 533,
+				"typeCode": 1,
+				"iconuri": "http://www.colourco.de/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://www.colourco.de/"
+			}, {
+				"guid": "_-ywiBFZX-2Z",
+				"title": "COLOURlovers",
+				"index": 4,
+				"dateAdded": 1357685023000000,
+				"lastModified": 1440513347000000,
+				"id": 534,
+				"typeCode": 1,
+				"iconuri": "http://www.mozilla.org/2005/made-up-favicon/82-1440513347707",
+				"type": "text/x-moz-place",
+				"uri": "http://www.colourlovers.com/"
+			}, {
+				"guid": "vQOeg81EdGw2",
+				"title": "Hexadezimal-Farben",
+				"index": 5,
+				"dateAdded": 1363609597000000,
+				"lastModified": 1440513347000000,
+				"id": 535,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.websidesearch.com/content/farben1.php"
+			}, {
+				"guid": "XdUQmU42SuTZ",
+				"title": "Von Raptoren und Naughty Cats: Die 6 verrücktesten JavaScript-Snippets » t3n",
+				"index": 6,
+				"dateAdded": 1402829250000000,
+				"lastModified": 1440513347000000,
+				"id": 536,
+				"typeCode": 1,
+				"iconuri": "http://t3n.sc/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://t3n.de/news/raptoren-verrueckte-js-codesnippets-js-550283/?utm_content=buffer71f52&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer"
+			}, {
+				"guid": "btYSfybuhETK",
+				"title": "CSS Validierungsdienst",
+				"index": 7,
+				"dateAdded": 1383819213000000,
+				"lastModified": 1440513347000000,
+				"id": 537,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://jigsaw.w3.org/css-validator/#validate_by_upload"
+			}, {
+				"guid": "13Tq77rcmWwq",
+				"title": "HTML Farbencodes",
+				"index": 8,
+				"dateAdded": 1363609607000000,
+				"lastModified": 1440513347000000,
+				"id": 538,
+				"typeCode": 1,
+				"iconuri": "http://c632769.r69.cf2.rackcdn.com/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://html-color-codes.info/webfarben_hexcodes/"
+			}, {
+				"guid": "Oz9HBhQfgTBt",
+				"title": "writeLaTeX: Online Collaborative LaTeX Editor with Integrated Rapid Preview",
+				"index": 9,
+				"dateAdded": 1365618587000000,
+				"lastModified": 1440513347000000,
+				"id": 539,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "https://www.writelatex.com/?fb_action_ids=10151273650667092&fb_action_types=og.likes&fb_source=aggregation&fb_aggregation_id=288381481237582"
+			}, {
+				"guid": "vxhzpJIKKB2u",
+				"title": "deviceponsive",
+				"index": 10,
+				"dateAdded": 1389463808000000,
+				"lastModified": 1440513347000000,
+				"id": 540,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://deviceponsive.com/"
+			}, {
+				"guid": "YpPfIOajYnMM",
+				"title": "Typo",
+				"index": 11,
+				"dateAdded": 1427802324000000,
+				"lastModified": 1440513347000000,
+				"id": 541,
+				"typeCode": 2,
+				"type": "text/x-moz-place-container",
+				"children": [{
+					"guid": "GBH0B2uEmVIm",
+					"title": "Research Studios",
+					"index": 0,
+					"dateAdded": 1357685792000000,
+					"lastModified": 1440513347000000,
+					"id": 542,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://www.researchstudios.com/"
+				}, {
+					"guid": "yIRWSW1Ilic3",
+					"title": "Welcome to Font-O-Rama | Typography for sale and for free",
+					"index": 1,
+					"dateAdded": 1357685815000000,
+					"lastModified": 1440513347000000,
+					"id": 543,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://www.font-o-rama.com/"
+				}, {
+					"guid": "gnBaJW3gVsHq",
+					"title": "Typolexikon.de : Das Lexikon der westeuropäischen Typographie : Typografie",
+					"index": 2,
+					"dateAdded": 1357685831000000,
+					"lastModified": 1440513347000000,
+					"id": 544,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://www.typolexikon.de/"
+				}, {
+					"guid": "vkjaHT6PIc4F",
+					"title": "Typefacts | Typografie verstehen",
+					"index": 3,
+					"dateAdded": 1357685863000000,
+					"lastModified": 1440513347000000,
+					"id": 545,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://www.typefacts.de/"
+				}, {
+					"guid": "Lg7Tr0u_D5IR",
+					"title": "WhatTheFont! « MyFonts",
+					"index": 4,
+					"dateAdded": 1357685887000000,
+					"lastModified": 1440513347000000,
+					"id": 546,
+					"typeCode": 1,
+					"iconuri": "https://www.myfonts.com/favicon.ico",
+					"type": "text/x-moz-place",
+					"uri": "http://www.myfonts.com/WhatTheFont/"
+				}, {
+					"guid": "2xo-3nzZ57hV",
+					"title": "FontSquirrel",
+					"index": 5,
+					"dateAdded": 1366962980000000,
+					"lastModified": 1440513347000000,
+					"id": 547,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://www.fontsquirrel.com/"
+				}, {
+					"guid": "ZnBUHBklDVMB",
+					"title": "The 100 Greatest Free Fonts for 2014",
+					"index": 6,
+					"dateAdded": 1395392575000000,
+					"lastModified": 1440513347000000,
+					"id": 548,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://www.awwwards.com/the-100-greatest-free-fonts-for-2014.html"
+				}]
+			}, {
+				"guid": "oy6rngk4y6I0",
+				"title": "icons",
+				"index": 12,
+				"dateAdded": 1427802324000000,
+				"lastModified": 1440513347000000,
+				"id": 549,
+				"typeCode": 2,
+				"type": "text/x-moz-place-container",
+				"children": [{
+					"guid": "_w65QFqZZ43X",
+					"title": "Icon Archive",
+					"index": 0,
+					"dateAdded": 1414496835000000,
+					"lastModified": 1440513347000000,
+					"id": 550,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://www.iconarchive.com/"
+				}, {
+					"guid": "kV1md_AX6M6y",
+					"title": "flaticon",
+					"index": 1,
+					"dateAdded": 1414496873000000,
+					"lastModified": 1440513347000000,
+					"id": 551,
+					"typeCode": 1,
+					"iconuri": "http://www.mozilla.org/2005/made-up-favicon/83-1440513347723",
+					"type": "text/x-moz-place",
+					"uri": "http://www.flaticon.com/"
+				}, {
+					"guid": "lfN0yFP3Y7_d",
+					"title": "Create your Icon Font in seconds - 9000 Vector Icons Available - Free Icon Font Generator",
+					"index": 2,
+					"dateAdded": 1414496924000000,
+					"lastModified": 1440513347000000,
+					"id": 552,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://fontastic.me/"
+				}, {
+					"guid": "V38kH505nzo2",
+					"title": "GlyphSearch: Search for icons from Font Awesome, Glyphicons, IcoMoon, Ionicons, Octicons and Foundation",
+					"index": 3,
+					"dateAdded": 1414496971000000,
+					"lastModified": 1440513347000000,
+					"id": 553,
+					"typeCode": 1,
+					"iconuri": "http://www.mozilla.org/2005/made-up-favicon/84-1440513347725",
+					"type": "text/x-moz-place",
+					"uri": "http://glyphsearch.com/"
+				}, {
+					"guid": "MvaNhsMt2RyL",
+					"title": "Iconfinder",
+					"index": 4,
+					"dateAdded": 1355421847000000,
+					"lastModified": 1440513347000000,
+					"id": 554,
+					"typeCode": 1,
+					"iconuri": "https://cdn0.iconfinder.com/static/494de40e1f51c2cc63a17c5da53e22fb/assets/img/favicons/favicon-16x16.png",
+					"type": "text/x-moz-place",
+					"uri": "http://www.iconfinder.com/"
+				}, {
+					"guid": "NS-myHyRLM6T",
+					"title": "DryIcons",
+					"index": 5,
+					"dateAdded": 1414497148000000,
+					"lastModified": 1440513347000000,
+					"id": 555,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://dryicons.com/"
+				}, {
+					"guid": "lUbeNJ_A35g4",
+					"title": "Font Custom",
+					"index": 6,
+					"dateAdded": 1414497195000000,
+					"lastModified": 1440513347000000,
+					"id": 556,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://fontcustom.com/"
+				}, {
+					"guid": "zJjxhdN6OWUt",
+					"title": "We Love Icon Fonts",
+					"index": 7,
+					"dateAdded": 1414497354000000,
+					"lastModified": 1440513347000000,
+					"id": 557,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://weloveiconfonts.com/"
+				}, {
+					"guid": "GXkoD8vaP13h",
+					"title": "Iconvau.lt",
+					"index": 8,
+					"dateAdded": 1414497530000000,
+					"lastModified": 1440513347000000,
+					"id": 558,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://iconvau.lt/"
+				}]
+			}, {
+				"guid": "-Nfv5miLCYlT",
+				"title": "",
+				"index": 13,
+				"dateAdded": 1389121560000000,
+				"lastModified": 1440513347000000,
+				"id": 559,
+				"typeCode": 1,
+				"iconuri": "http://www.mozilla.org/2005/made-up-favicon/109-1440513347791",
+				"type": "text/x-moz-place",
+				"uri": "http://saved.io/login.php?bkm=&list="
+			}, {
+				"guid": "9-EzyO1yzPul",
+				"title": "glot.io",
+				"index": 14,
+				"dateAdded": 1461602044000000,
+				"lastModified": 1461602051000000,
+				"id": 560,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "https://glot.io/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "https://glot.io/"
+			}, {
+				"guid": "Xc2uqL8PWbR1",
+				"title": "Skeleton: Responsive CSS Boilerplate",
+				"index": 15,
+				"dateAdded": 1462014016000000,
+				"lastModified": 1462014016000000,
+				"id": 561,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "http://getskeleton.com/dist/images/favicon.png",
+				"type": "text/x-moz-place",
+				"uri": "http://getskeleton.com/"
+			}, {
+				"guid": "kgg00Al6Xy7P",
+				"title": "Spectre.css: a lightweight, responsive and modern CSS framework",
+				"index": 16,
+				"dateAdded": 1462014093000000,
+				"lastModified": 1462014093000000,
+				"id": 562,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"type": "text/x-moz-place",
+				"uri": "https://picturepan2.github.io/spectre/"
+			}, {
+				"guid": "s_E_av3kFhjX",
+				"title": "Furtive CSS",
+				"index": 17,
+				"dateAdded": 1462014154000000,
+				"lastModified": 1462014155000000,
+				"id": 563,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": "A forward-thinking, CSS micro-framework. Minimal by design."
+				}],
+				"type": "text/x-moz-place",
+				"uri": "http://furtive.co/"
+			}]
+		}, {
+			"guid": "WIJ6p2x-bM7e",
+			"title": "shop",
+			"index": 16,
+			"dateAdded": 1427802324000000,
+			"lastModified": 1514972485007000,
+			"id": 409,
+			"typeCode": 2,
+			"type": "text/x-moz-place-container",
+			"children": [{
+				"guid": "7mXD9HtXZr6U",
+				"title": "",
+				"index": 0,
+				"dateAdded": 1351889647000000,
+				"lastModified": 1440513347000000,
+				"id": 410,
+				"typeCode": 1,
+				"iconuri": "https://assets.mydealz.de/assets/img/appicon_b55ba.png#tippytop",
+				"type": "text/x-moz-place",
+				"uri": "http://www.mydealz.de/"
+			}, {
+				"guid": "jS2EK5dg3D8u",
+				"title": "",
+				"index": 1,
+				"dateAdded": 1351934933000000,
+				"lastModified": 1440513347000000,
+				"id": 412,
+				"typeCode": 1,
+				"iconuri": "http://www.ikea.com/ext/ikeagateway/statics/apple-touch-icon.png#tippytop",
+				"type": "text/x-moz-place",
+				"uri": "http://www.ikea.com/de/de/store/berlin_lichtenberg/offers"
+			}, {
+				"guid": "3F00HBxBRZP4",
+				"title": "",
+				"index": 2,
+				"dateAdded": 1354782516000000,
+				"lastModified": 1514972485007000,
+				"id": 411,
+				"typeCode": 1,
+				"iconuri": "https://www.ebay-kleinanzeigen.de/static/img/favicon.1hf6kaeaeu89h.png",
+				"type": "text/x-moz-place",
+				"uri": "http://kleinanzeigen.ebay.de/anzeigen/stadt/berlin/"
+			}, {
+				"guid": "5lqlMu8ii2tk",
+				"title": "Day of the Shirt",
+				"index": 3,
+				"dateAdded": 1393238723000000,
+				"lastModified": 1440513347000000,
+				"id": 413,
+				"typeCode": 1,
+				"iconuri": "https://dayoftheshirt.com/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://dayoftheshirt.com/"
+			}, {
+				"guid": "8ZkhPPrpjVRK",
+				"title": "",
+				"index": 4,
+				"dateAdded": 1354734987000000,
+				"lastModified": 1440513347000000,
+				"id": 414,
+				"typeCode": 1,
+				"iconuri": "https://www.china-gadgets.de/app/uploads/2017/06/favicon.png",
+				"type": "text/x-moz-place",
+				"uri": "http://www.china-gadgets.de/"
+			}, {
+				"guid": "WjwDId0GdjlU",
+				"title": "PACKT Books",
+				"index": 5,
+				"dateAdded": 1446991802000000,
+				"lastModified": 1446991820000000,
+				"id": 415,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "https://d1ldz4te4covpm.cloudfront.net/misc/favicon.ico",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": "A new free programming tutorial book every day! Develop new tech skills and knowledge with Packt Publishing’s daily free learning giveaway."
+				}],
+				"type": "text/x-moz-place",
+				"uri": "https://www.packtpub.com/packt/offers/free-learning"
+			}, {
+				"guid": "16ClGLTv6IiD",
+				"title": "",
+				"index": 6,
+				"dateAdded": 1354783820000000,
+				"lastModified": 1440513347000000,
+				"id": 416,
+				"typeCode": 1,
+				"iconuri": "http://audiolith.net/wp-content/uploads/2017/02/audiolith_icon-230x230.gif",
+				"type": "text/x-moz-place",
+				"uri": "http://www.audiolith.net/"
+			}, {
+				"guid": "nSc7xgvas9_d",
+				"title": "DirAction.",
+				"index": 7,
+				"dateAdded": 1465069513000000,
+				"lastModified": 1465069533000000,
+				"id": 418,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "https://diraction.org/media/unknown/15/f9/52/favicon565d6d1f45905.ico",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": "Bei uns bekommt ihr allen möglichen bedruckten Klamotten zum Thema Antifa, Repression, Punk, Revolution & Vegan. Außerdem bieten wir Musik, Veg..."
+				}],
+				"type": "text/x-moz-place",
+				"uri": "https://diraction.org/"
+			}, {
+				"guid": "dVQN99FV_4CP",
+				"title": "black mosquito",
+				"index": 8,
+				"dateAdded": 1364167327000000,
+				"lastModified": 1440513347000000,
+				"id": 419,
+				"typeCode": 1,
+				"iconuri": "http://www.black-mosquito.org/media/favicon/default/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://www.black-mosquito.org/index.php/"
+			}, {
+				"guid": "jSudlCr8k1t2",
+				"title": "Disorder Rebel Store",
+				"index": 9,
+				"dateAdded": 1466066479000000,
+				"lastModified": 1466066479000000,
+				"id": 420,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "http://disorder-berlin.de/img/favicon.ico?1481138024",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": "Shop powered by PrestaShop"
+				}],
+				"type": "text/x-moz-place",
+				"uri": "http://disorder-berlin.de/"
+			}, {
+				"guid": "Xb9ipD1L6EYh",
+				"title": "grundstoff.net",
+				"index": 10,
+				"dateAdded": 1352761950000000,
+				"lastModified": 1440513347000000,
+				"id": 421,
+				"typeCode": 1,
+				"iconuri": "http://www.grundstoff.net/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://www.grundstoff.net/wendy-hoodie-aus-biobaumwolle-schwarz-p-6661.html"
+			}, {
+				"guid": "JhLdEe3CZKp8",
+				"title": "",
+				"index": 11,
+				"dateAdded": 1352102537000000,
+				"lastModified": 1440513347000000,
+				"id": 422,
+				"typeCode": 1,
+				"iconuri": "http://www.mozilla.org/2005/made-up-favicon/60-1440513347670",
+				"type": "text/x-moz-place",
+				"uri": "http://www.gratis-in-berlin.de/"
+			}, {
+				"guid": "e04vYyjxoVLo",
+				"title": "Radical Print",
+				"index": 12,
+				"dateAdded": 1465069469000000,
+				"lastModified": 1465069477000000,
+				"id": 417,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "http://radicalprint.de/WebRoot/Store1/Shops/c3b8b3b1-1446-4346-975c-59f04c408da8/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://radicalprint.de/epages/c3b8b3b1-1446-4346-975c-59f04c408da8.sf/de_DE/?ObjectPath=/Shops/c3b8b3b1-1446-4346-975c-59f04c408da8/Categories/Category1"
+			}, {
+				"guid": "_hTjbGLfI1x1",
+				"title": "produkte",
+				"index": 13,
+				"dateAdded": 1427802324000000,
+				"lastModified": 1461491007000000,
+				"id": 423,
+				"typeCode": 2,
+				"type": "text/x-moz-place-container",
+				"children": [{
+					"guid": "v5QRkbj6w7yH",
+					"title": "Haarspray",
+					"index": 0,
+					"dateAdded": 1354687376000000,
+					"lastModified": 1440513347000000,
+					"id": 424,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://www.ebay.de/itm/2-x-Schwarzkopf-Osis-Session-Haarspray-500-ml-18-95-EUR-Liter-/130741689900?pt=DE_Beauty_Haarpflege_Haarpflege&hash=item1e70cfde2c&_uhb=1#ht_2096wt_1398"
+				}, {
+					"guid": "wJzYL-K-DM5B",
+					"title": "Black Mens USB powered Heating Warmer Washable Gloves Pair | eBay",
+					"index": 1,
+					"dateAdded": 1355152714000000,
+					"lastModified": 1440513347000000,
+					"id": 425,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://www.ebay.de/itm/ws/eBayISAPI.dll?ViewItem&item=190684391679&clk_rvr_id=423574111410"
+				}, {
+					"guid": "IsZaHSOPdL3E",
+					"title": "eye clock desk | eBay",
+					"index": 2,
+					"dateAdded": 1355156187000000,
+					"lastModified": 1440513347000000,
+					"id": 426,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://www.ebay.de/sch/i.html?_nkw=eye+clock+desk&_sacat=0&_sop=15&LH_PrefLoc=2&_odkw=eye+clock&_osacat=0&_trksid=p3286.c0.m270.l1313&clk_rvr_id=423599609930"
+				}, {
+					"guid": "f3yxm37HWJ4u",
+					"title": "Novelty Glass Dippy Dipping Drinking Einstein Bird Duck toy | eBay",
+					"index": 3,
+					"dateAdded": 1355156253000000,
+					"lastModified": 1440513347000000,
+					"id": 427,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://www.ebay.de/itm/Novelty-Glass-Dippy-Dipping-Drinking-Einstein-Bird-Duck-toy-/251189210910?pt=LH_DefaultDomain_0&hash=item3a7c0b2f1e"
+				}, {
+					"guid": "rJpxFLz76F-w",
+					"title": "Animal Tooth brush Holder",
+					"index": 4,
+					"dateAdded": 1389089267000000,
+					"lastModified": 1440513347000000,
+					"id": 428,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://www.ebay.de/itm/Fashion-Cute-Animal-Cartoon-Family-Tooth-brush-Holder-with-Suction-Cup-8703-/161006621843?clk_rvr_id=570257226731"
+				}, {
+					"guid": "4l8i-4WoZ3sO",
+					"title": "Ei Baum",
+					"index": 5,
+					"dateAdded": 1389089302000000,
+					"lastModified": 1440513347000000,
+					"id": 429,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://www.china-gadgets.de/gadget/was-war-zuerst-henne-oder-ei-baum/"
+				}, {
+					"guid": "O8CDDZGbilJc",
+					"title": "The Geek's Guide to Dating: Amazon.de: Eric Smith: Fremdsprachige Bücher",
+					"index": 6,
+					"dateAdded": 1400664512000000,
+					"lastModified": 1440513347000000,
+					"id": 430,
+					"typeCode": 1,
+					"type": "text/x-moz-place",
+					"uri": "http://www.amazon.de/Geeks-Guide-Dating-Eric-Smith/dp/1594746435"
+				}, {
+					"guid": "6tnDuV1_CZVB",
+					"title": "Moderner Designer Teppich 160 x 230 cm Schwarz-Weiss Zebra Look NEU!!! OVP!!! | eBay",
+					"index": 7,
+					"dateAdded": 1423955025000000,
+					"lastModified": 1440513347000000,
+					"id": 431,
+					"typeCode": 1,
+					"iconuri": "http://www.mozilla.org/2005/made-up-favicon/67-1440513347689",
+					"type": "text/x-moz-place",
+					"uri": "http://www.ebay.de/itm/Moderner-Designer-Teppich-160-x-230-cm-Schwarz-Weiss-Zebra-Look-NEU-OVP-/351302629857"
+				}, {
+					"guid": "VJIsyikaKpav",
+					"title": "10 Sci-Fi Book Classics You Need To Read Before You DiePositiveMed | Positive Vibrations in Health",
+					"index": 8,
+					"dateAdded": 1415091578000000,
+					"lastModified": 1440513347000000,
+					"id": 432,
+					"typeCode": 1,
+					"iconuri": "http://positivemed.com/favicon.ico",
+					"type": "text/x-moz-place",
+					"uri": "http://positivemed.com/2014/09/25/10-sci-fi-book-classics-need-read-die/"
+				}]
+			}, {
+				"guid": "GQhtJNkYVHcY",
+				"title": "Moloko-Shop",
+				"index": 14,
+				"dateAdded": 1357655423000000,
+				"lastModified": 1440513347000000,
+				"id": 433,
+				"typeCode": 1,
+				"iconuri": "http://www.molokoshop.de/templates/molokoshop319/themes/base/images/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://www.molokoshop.de/"
+			}, {
+				"guid": "SN7837Q48Fr-",
+				"title": "Killer Kirsche",
+				"index": 15,
+				"dateAdded": 1360670610000000,
+				"lastModified": 1440513347000000,
+				"id": 434,
+				"typeCode": 1,
+				"iconuri": "http://www.killerkirsche.de/media/unknown/5b/c9/a6/killerkirsche.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://www.killerkirsche.de/"
+			}, {
+				"guid": "2Lfy8rcXQpSP",
+				"title": "TicTex",
+				"index": 16,
+				"dateAdded": 1364889517000000,
+				"lastModified": 1440513347000000,
+				"id": 435,
+				"typeCode": 1,
+				"iconuri": "http://www.tictex.com/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://www.tictex.com/"
+			}, {
+				"guid": "SMlCOT6-rhXV",
+				"title": "",
+				"index": 17,
+				"dateAdded": 1352069858000000,
+				"lastModified": 1440513347000000,
+				"id": 436,
+				"typeCode": 1,
+				"iconuri": "https://secure.booklooker.de/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://www.booklooker.de/"
+			}, {
+				"guid": "mWrxusx6roaZ",
+				"title": "wolle-labobine.de - la bobine",
+				"index": 18,
+				"dateAdded": 1391159304000000,
+				"lastModified": 1440513347000000,
+				"id": 437,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "http://www.wolle-labobine.de/"
+			}, {
+				"guid": "lBAhEFEu7yyX",
+				"title": "TinkerSoup",
+				"index": 19,
+				"dateAdded": 1416587828000000,
+				"lastModified": 1440513347000000,
+				"id": 439,
+				"typeCode": 1,
+				"type": "text/x-moz-place",
+				"uri": "https://www.tinkersoup.de/sale/"
+			}, {
+				"guid": "02y46WLT7dHl",
+				"title": "Schwarzesocke",
+				"index": 20,
+				"dateAdded": 1420980274000000,
+				"lastModified": 1440513347000000,
+				"id": 440,
+				"typeCode": 1,
+				"iconuri": "http://www.schwarzesocke.com/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://www.schwarzesocke.com/"
+			}, {
+				"guid": "FrcjlyoAh4MT",
+				"title": "DealDoktor",
+				"index": 21,
+				"dateAdded": 1466233622000000,
+				"lastModified": 1466233632000000,
+				"id": 442,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "https://www.dealdoktor.de/favicon.ico",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": "Wir ❤ Schnäppchen ✔ Geld verdienen im Internet ✔ Persönliche Beratung ✔ Aktuell und schnell!"
+				}],
+				"type": "text/x-moz-place",
+				"uri": "https://www.dealdoktor.de/"
+			}, {
+				"guid": "AXK1C301AjFP",
+				"title": "MonsterDealz",
+				"index": 22,
+				"dateAdded": 1466234270000000,
+				"lastModified": 1466234277000000,
+				"id": 443,
+				"typeCode": 1,
+				"charset": "UTF-8",
+				"iconuri": "http://www.monsterdealz.de/favicon.ico",
+				"annos": [{
+					"name": "bookmarkProperties/description",
+					"flags": 0,
+					"expires": 4,
+					"value": "der schnelle Schnäppchen Blog"
+				}],
+				"type": "text/x-moz-place",
+				"uri": "http://www.monsterdealz.de/"
+			}]
+		}, {
+			"guid": "oMwnoyu0j2F5",
+			"title": "",
+			"index": 17,
+			"dateAdded": 1393878152000000,
+			"lastModified": 1440513347000000,
+			"id": 573,
+			"typeCode": 1,
+			"iconuri": "https://static.soup.io/images/favicon.png",
+			"type": "text/x-moz-place",
+			"uri": "https://www.soup.io/login"
+		}, {
+			"guid": "FFdZaStjSoHC",
+			"title": "circus",
+			"index": 18,
+			"dateAdded": 1472801806000000,
+			"lastModified": 1472802017000000,
+			"id": 608,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "http://www.freevintageposters.com/favicon.ico",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "600+ FREE high-res vintage posters of advertising, travel, movies, western, magic, circus, food, drinks, military, design, sports, etc."
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://www.freevintageposters.com/search/label/circus?max-results=12"
+		}, {
+			"guid": "SKbhFe_tvBTc",
+			"title": "",
+			"index": 19,
+			"dateAdded": 1476625439244000,
+			"lastModified": 1476625453283000,
+			"id": 611,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://assets-1.big-direkt.de/static/images/favicon.ico",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "Hier können Sie Ihre BIGtionär Maßnahmen einsehen und melden."
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://www.big-direkt.de/meinebig/mein_bigtionaer/massnahmen_melden.html"
+		}, {
+			"guid": "QJ1OX8cTeCh3",
+			"title": "",
+			"index": 20,
+			"dateAdded": 1478166806504000,
+			"lastModified": 1506176947709000,
+			"id": 622,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://wego.here.com/favicon.ico",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "HERE. Karten fürs Leben."
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://wego.here.com/discover/?x=ep&map=52.51607,13.37699,11,grey"
+		}, {
+			"guid": "goKoJwCxnViO",
+			"title": "s",
+			"index": 21,
+			"dateAdded": 1427802324000000,
+			"lastModified": 1440513347000000,
+			"id": 565,
+			"typeCode": 2,
+			"type": "text/x-moz-place-container",
+			"children": [{
+				"guid": "42klgC22T-PK",
+				"title": "Ixquick Search Engine",
+				"index": 0,
+				"dateAdded": 1427796661000000,
+				"lastModified": 1440513347000000,
+				"id": 566,
+				"typeCode": 1,
+				"iconuri": "https://ixquick.com/graphics/favicon/sp-favicon-16x16.png",
+				"type": "text/x-moz-place",
+				"uri": "https://ixquick.com/"
+			}, {
+				"guid": "5_m-zc06rvi8",
+				"title": "Wolfram|Alpha: Computational Knowledge Engine",
+				"index": 1,
+				"dateAdded": 1427796728000000,
+				"lastModified": 1440513347000000,
+				"id": 567,
+				"typeCode": 1,
+				"iconuri": "http://www.wolframalpha.com/favicon.ico?v=2",
+				"type": "text/x-moz-place",
+				"uri": "http://www.wolframalpha.com/"
+			}, {
+				"guid": "_W5HgxVKdECi",
+				"title": "Open Hub Code Search",
+				"index": 2,
+				"dateAdded": 1427796792000000,
+				"lastModified": 1440513347000000,
+				"id": 568,
+				"typeCode": 1,
+				"iconuri": "http://code.openhub.net/favicon.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://code.openhub.net/"
+			}, {
+				"guid": "p5kzLFB4SjQz",
+				"title": "TinEye Reverse Image Search",
+				"index": 3,
+				"dateAdded": 1427796917000000,
+				"lastModified": 1440513347000000,
+				"id": 569,
+				"typeCode": 1,
+				"iconuri": "http://www.mozilla.org/2005/made-up-favicon/93-1440513347770",
+				"type": "text/x-moz-place",
+				"uri": "http://www.tineye.com/"
+			}, {
+				"guid": "1xh76gx7cVVK",
+				"title": "WorldWideScience",
+				"index": 4,
+				"dateAdded": 1427796924000000,
+				"lastModified": 1440513347000000,
+				"id": 570,
+				"typeCode": 1,
+				"iconuri": "http://worldwidescience.org/favicon_wws.ico",
+				"type": "text/x-moz-place",
+				"uri": "http://worldwidescience.org/"
+			}, {
+				"guid": "q7A_SOEEql8U",
+				"title": "Wegtam Search Agent - Simplify your search",
+				"index": 5,
+				"dateAdded": 1427796935000000,
+				"lastModified": 1440513347000000,
+				"id": 571,
+				"typeCode": 1,
+				"iconuri": "https://www.wegtam.com/wegtam/img/favicon.png",
+				"type": "text/x-moz-place",
+				"uri": "https://www.wegtam.com/wegtam/index"
+			}, {
+				"guid": "S-KTYEHpqAGF",
+				"title": "Books written in German (Bücher auf Deutsch) @ BookFinder.com",
+				"index": 6,
+				"dateAdded": 1427796975000000,
+				"lastModified": 1440513347000000,
+				"id": 572,
+				"typeCode": 1,
+				"iconuri": "http://www.mozilla.org/2005/made-up-favicon/96-1440513347774",
+				"type": "text/x-moz-place",
+				"uri": "http://www.bookfinder.com/german_books/"
+			}]
+		}, {
+			"guid": "kpMh2xYNt6k8",
+			"title": "dotbot",
+			"index": 22,
+			"dateAdded": 1506176928275000,
+			"lastModified": 1506176940009000,
+			"id": 740,
+			"typeCode": 1,
+			"charset": "UTF-8",
+			"iconuri": "https://assets-cdn.github.com/favicon.ico",
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "dotbot - A tool that bootstraps your dotfiles :zap:"
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://github.com/anishathalye/dotbot"
+		}, {
+			"guid": "BoalkHZR7g82",
+			"title": "js",
+			"index": 23,
+			"dateAdded": 1508747150031000,
+			"lastModified": 1508747162985000,
+			"id": 744,
+			"typeCode": 1,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": ""
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://alf.nu/ReturnTrue"
+		}, {
+			"guid": "6LrNIAZZnkwN",
+			"title": "regex",
+			"index": 24,
+			"dateAdded": 1508747298231000,
+			"lastModified": 1508747305612000,
+			"id": 745,
+			"typeCode": 1,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": ""
+			}],
+			"type": "text/x-moz-place",
+			"uri": "http://alf.nu/RegexGolf"
+		}, {
+			"guid": "BkTvcIxDxVN5",
+			"title": "NESPi Case",
+			"index": 25,
+			"dateAdded": 1511103424198000,
+			"lastModified": 1511103440669000,
+			"id": 753,
+			"typeCode": 1,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": ""
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://www.youtube.com/watch?time_continue=246&v=ZB89h5dbV0A"
+		}, {
+			"guid": "2vc_BQT6dral",
+			"title": "The Twelve-Factor App",
+			"index": 26,
+			"dateAdded": 1511799089242000,
+			"lastModified": 1511799096519000,
+			"id": 755,
+			"typeCode": 1,
+			"annos": [{
+				"name": "bookmarkProperties/description",
+				"flags": 0,
+				"expires": 4,
+				"value": "A methodology for building modern, scalable, maintainable software-as-a-service apps."
+			}],
+			"type": "text/x-moz-place",
+			"uri": "https://12factor.net/de/"
+		}]
+	}, {
+		"guid": "unfiled_____",
+		"title": "Weitere Lesezeichen",
+		"index": 3,
+		"dateAdded": 1474304841351000,
+		"lastModified": 1520178392673000,
+		"id": 5,
+		"typeCode": 2,
+		"type": "text/x-moz-place-container",
+		"root": "unfiledBookmarksFolder"
+	}, {
+		"guid": "mobile______",
+		"title": "Mobile Lesezeichen",
+		"index": 5,
+		"dateAdded": 1489056953349000,
+		"lastModified": 1489056953349000,
+		"id": 703,
+		"typeCode": 2,
+		"annos": [{
+			"name": "mobile/bookmarksRoot",
+			"flags": 0,
+			"expires": 4,
+			"value": 1
+		}],
+		"type": "text/x-moz-place-container",
+		"root": "mobileFolder"
+	}]
+}
