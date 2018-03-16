@@ -1,12 +1,19 @@
 {
 	"color_scheme": "Packages/Writing Color Scheme/Writing Color Scheme Light.tmTheme",
+	"theme": "Material-Theme-Lighter.sublime-theme",
+	"extensions":
+	[
+		"tex"
+	],
 	"font_face": "Roboto",
 	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"0_package_control_loader",
 		"Vintage"
 	],
 	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
