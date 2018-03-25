@@ -1,6 +1,5 @@
 {
 	"color_scheme": "Packages/Writing Color Scheme/Writing Color Scheme Light.tmTheme",
-	"theme": "Material-Theme-Lighter.sublime-theme",
 	"extensions":
 	[
 		"tex"
@@ -11,9 +10,13 @@
 	"ignored_packages":
 	[
 		"0_package_control_loader",
+		"CSS Less(ish)",
+		"Emmet",
+		"Theme - Afterglow",
 		"Vintage"
 	],
 	"tab_size": 2,
+	"theme": "Material-Theme-Lighter.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
