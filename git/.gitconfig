@@ -4,7 +4,7 @@
 	quotepath = false
 	hooksPath = /home/cobi/dev/hooks
 [credential]
-	helper = cache --timeout=3600
+	helper = cache --timeout=36000
 [push]
 	default = simple
 	followTags = true
@@ -27,5 +27,4 @@
   	changed = yellow
 	untracked = magenta
 [user]
-	email = fuchspippi@web.de
 	name = hulkoba

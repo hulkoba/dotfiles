@@ -18,5 +18,6 @@
 	"tab_size": 2,
 	"theme": "Material-Theme-Lighter.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"file_exclude_patterns": ["*.pdf", "*.aux", "*.acn", "*.acr", "*.alg", "*.bbl", "*.blg", "*.brf", "*.glg", "*.glo", "*.gls", "*.ist", "*.lof", "*.out", "*.toc"]
 }
