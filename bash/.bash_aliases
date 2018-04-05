@@ -15,10 +15,13 @@ alias thesis="cd ~/Dokumente/LaTeX/Thesis"
 # LaTeX
 alias pdf="pdflatex thesis.tex"
 alias bib="bibtex thesis"
-alias gls="makeglossaries thesis"
+alias glo="makeglossaries thesis"
+alias texbib = 'pdflatex thesis.tex && bibtex thesis && makeglossaries thesis && pdflatex thesis.tex && pdflatex thesis.tex'
+alias open="subl && xdg-open thesis.pdf"
 
 # npm
 alias ni="npm install"
+alias nt="npm test"
 alias nun="npm uninstall"
 alias nup="npm update"
 alias nst="npm start"
