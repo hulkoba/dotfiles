@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "amilia-qouch"
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Phœnix Dark",
+		"editor.fontFamily": "'Hack', 'monospace', monospace, 'Droid Sans Fallback'",
+		"editor.formatOnSave": false,
+		"editor.tabCompletion": true
+	}
+}
