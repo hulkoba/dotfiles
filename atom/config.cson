@@ -23,8 +23,9 @@
       convert_quotes: "single"
       force_indentation: true
       preserve_newlines: true
+  "color-tabs":
+    backgroundStyle: "solid"
   core:
-    autoHideMenuBar: true
     disabledPackages: [
       "language-clojure"
       "language-go"
@@ -41,7 +42,6 @@
       "batman-syntax"
     ]
   editor:
-    fontSize: 13
     fonzSize: 13
     preferredLineLength: 120
   "exception-reporting":
@@ -50,8 +50,11 @@
     fontWeight: "light"
   linter: {}
   "linter-js-standard":
-    checkStyleDevDependencies: true
+    lintMarkdownFiles: true
     showEslintRules: true
+  "one-dark-ui":
+    fontSize: 13
+    tabSizing: "Maximum"
   welcome:
     showOnStartup: false
   whitespace: {}
