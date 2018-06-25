@@ -1,7 +1,31 @@
 {
-	"editor.formatOnSave": true,
+	"editor.formatOnSave": false,
 	"editor.tabSize": 2,
 	"files.trimTrailingWhitespace": true,
 	"html.suggest.angular1": false,
-	"html.suggest.ionic": false
+	"html.suggest.ionic": false,
+	"php.suggest.basic": false,
+	"emmet.showAbbreviationSuggestions": false,
+	"typescript.suggestionActions.enabled": false,
+	"javascript.suggestionActions.enabled": false,
+	"editor.fontLigatures": true,
+	"files.insertFinalNewline": true,
+	"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/*.pdf": true
+	},
+	"editor.formatOnPaste": false,
+	"editor.quickSuggestions": {
+			"other": false,
+			"comments": false,
+			"strings": true
+	},
+	"editor.minimap.enabled": false,
+	"window.menuBarVisibility": "default",
+	"terminal.integrated.rendererType": "dom",
+	"window.zoomLevel": 0,
 }

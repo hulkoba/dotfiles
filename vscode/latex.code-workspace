@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"path": "/home/cobi/Thesis"
+		},
+		{
+			"path": "/home/cobi/Bachelorarbeit"
+		}
+	],
+	"settings": {
+		"editor.fontFamily": "'Roboto",
+		"editor.wordWrap": "on",
+		"workbench.colorTheme": "White Italic",
+		"editor.fontSize": 15,
+		"editor.renderWhitespace": "all",
+		"files.trimTrailingWhitespace": false,
+		"files.insertFinalNewline": false,
+		"files.exclude": {
+				"**/*.pdf": true,
+				"**/*.aux": true,
+				"**/*.acn": true,
+				"**/*.acr": true,
+				"**/*.alg": true,
+				"**/*.bbl": true,
+				"**/*.blg": true,
+				"**/*.brf": true,
+				"**/*.glg": true,
+				"**/*.glo": true,
+				"**/*.gls": true,
+				"**/*.ist": true,
+				"**/*.lof": true,
+				"**/*.lol": true,
+				"**/*.out": true,
+				"**/*.toc": true
+			},
+			// The LaTeX command to use (pdflatex, xelatex, latexmk)
+			"latex-preview.command": "pdflatex",
+	}
+}

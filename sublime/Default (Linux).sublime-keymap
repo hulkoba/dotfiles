@@ -1,7 +1,10 @@
 [
-	{ "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
-	{ "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } },
-	{ "keys": ["ctrl+d"], "command": "duplicate_line" },
-	{ "keys": ["ctrl+b"], "command": "find_under_expand" },
-	{ "keys": ["ctrl+shift+d"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+  { "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
+  { "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } },
+  { "keys": ["ctrl+d"], "command": "duplicate_line" },
+  { "keys": ["ctrl+b"], "command": "find_under_expand" },
+  { "keys": ["ctrl+shift+d"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+  { "keys": ["ctrl+shift+i"], "command": "reindent", "args": {"single_line": false}},
+  { "keys": ["ctrl+<"], "command": "fold_all" },
+  { "keys": ["ctrl+shift+<"], "command": "unfold_all" }
 ]

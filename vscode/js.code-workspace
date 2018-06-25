@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "/home/cobi/dev/amilia-qouch"
+		},
+		{
+			"path": "/home/cobi/dev/amilia-rdx"
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Kay Dark",
+		"editor.fontFamily": "'Droid Sans Mono', 'Hack'",
+		"files.exclude": {
+			// "**/node_modules": true
+		},
+		"standard.autoFixOnSave": true,
+		"standard.usePackageJson": true,
+	}
+}
