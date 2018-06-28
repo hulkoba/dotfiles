@@ -1,6 +1,7 @@
 # Enable aliases to be sudo’ed
 alias sudo='sudo '
 alias update='sudo apt-get update'
+alias s='sudo $(history -p !!)'
 
 alias ll='ls -alF'
 alias la='ls -A'
@@ -17,7 +18,7 @@ alias pdf="pdflatex thesis.tex"
 alias bib="bibtex thesis"
 alias glo="makeglossaries thesis"
 alias texbib = 'pdflatex thesis.tex && bibtex thesis && makeglossaries thesis && pdflatex thesis.tex && pdflatex thesis.tex'
-alias open="subl && xdg-open thesis.pdf"
+alias open="code . && xdg-open thesis.pdf"
 
 # npm
 alias ni="npm install"
@@ -36,6 +37,7 @@ alias fixlint='PATH=$PATH:$PWD/node_modules/.bin/eslint --fix'
 
 # couchdb
 alias stopcouch='sudo service couchdb stop'
+alias startcouch='sudo service couchdb start'
 
 # schreenshot snipping
 alias pp='gnome-screenshot -a'
