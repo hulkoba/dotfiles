@@ -18,7 +18,8 @@ alias pdf="pdflatex thesis.tex"
 alias bib="bibtex thesis"
 alias glo="makeglossaries thesis"
 alias texbib = 'pdflatex thesis.tex && bibtex thesis && makeglossaries thesis && pdflatex thesis.tex && pdflatex thesis.tex'
-alias open="code . && xdg-open thesis.pdf"
+alias open="code ~/dev/workspaces/latex.code-workspace && xdg-open thesis.pdf"
+
 
 # npm
 alias ni="npm install"
