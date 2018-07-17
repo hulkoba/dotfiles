@@ -15,6 +15,16 @@
 		"editor.renderWhitespace": "all",
 		"files.trimTrailingWhitespace": false,
 		"files.insertFinalNewline": false,
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#00AA00",
+			"sideBar.background": "#00AA0055",
+			"sideBar.foreground": "#191919",
+			"sideBarTitle.foreground": "#191919",
+			"sideBarSectionHeader.background": "#00aa00",
+			"sideBarSectionHeader.foreground": "#191919",
+			"tab.activeBackground": "#00aa00cc",
+			"tab.activeBorder": "#00aa00",
+		},
 		"files.exclude": {
 				"**/*.pdf": true,
 				"**/*.aux": true,
@@ -31,7 +41,9 @@
 				"**/*.lof": true,
 				"**/*.lol": true,
 				"**/*.out": true,
-				"**/*.toc": true
+				"**/*.toc": true,
+				"**/*.fls": true,
+				"**/*.fdb_latexmk": true
 			},
 			// The LaTeX command to use (pdflatex, xelatex, latexmk)
 			"latex-preview.command": "pdflatex",
