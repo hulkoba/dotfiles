@@ -10,6 +10,19 @@
 	"settings": {
 		"workbench.colorTheme": "Kay Dark",
 		"editor.fontFamily": "'Droid Sans Mono', 'Hack'",
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#FF4A98",
+			"activityBar.foreground": "#0b1431",
+			// "sideBar.background": "#3A8CC7",
+			// "sideBar.foreground": "#191919",
+			// "sideBarTitle.foreground": "#191919",
+			// "sideBarSectionHeader.background": "#00aa00",
+			// "sideBarSectionHeader.foreground": "#191919",
+			"tab.activeBackground": "#7F83FF",
+			"tab.activeForeground": "#0b1431",
+			"tab.activeBorder": "#7F83FF",
+
+		},
 		"files.exclude": {
 			// "**/node_modules": true
 		},
