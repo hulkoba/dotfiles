@@ -12,9 +12,16 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
-	"Print to console": {
+	"Print var to console": {
     "prefix": "log",
 		"body": ["console.log('### $1', $1)$2"],
 		"description": "text and var"
+	},
+	"Print to console": {
+		"prefix": "logo",
+		"body": [
+			"console.log('### $1')$2"
+		],
+		"description": "text"
 	}
 }
