@@ -30,6 +30,11 @@
     "when": "editorTextFocus && !editorReadonly"
   },
   {
+    "key": "ctrl+5",
+    "command": "editor.action.commentLine",
+    "when": "editorTextFocus && !editorReadonly && editorLangId == 'latex'"
+  },
+  {
     "key": "ctrl+[BracketRight]",
     "command": "editor.action.fontZoomIn"
   },

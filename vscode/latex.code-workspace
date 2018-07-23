@@ -24,6 +24,9 @@
 			"sideBarSectionHeader.foreground": "#191919",
 			"tab.activeBackground": "#00aa00cc",
 			"tab.activeBorder": "#00aa00",
+			"terminal.foreground": "#fff",
+			"terminal.background": "#3d3d3d",
+			"panelTitle.activeBorder": "#00aa00cc",
 		},
 		"files.exclude": {
 				"**/*.pdf": true,
@@ -45,7 +48,7 @@
 				"**/*.fls": true,
 				"**/*.fdb_latexmk": true
 			},
-			// The LaTeX command to use (pdflatex, xelatex, latexmk)
-			"latex-preview.command": "pdflatex",
+			"terminal.integrated.cursorStyle": "line",
+			"terminal.integrated.fontFamily": "monospace",
 	}
 }

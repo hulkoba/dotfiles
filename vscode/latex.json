@@ -33,4 +33,10 @@
 			"\\end{center}"],
 		"description": "add listing"
 	},
+	"Add cite": {
+		"prefix": "cit",
+		"body": [
+			"~\\cite{$1}"],
+		"description": "add cite"
+	},
 }
