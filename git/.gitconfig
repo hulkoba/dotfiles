@@ -16,6 +16,7 @@
 	co = checkout
 	cob = checkout -b
 	d = branch -d
+	D = branch -D
 	df = diff
 	pr = pull -r origin master
 	please = push --force-with-lease
@@ -23,8 +24,8 @@
 	status = always
 	ui = true
 [color "status"]
-  	added = green
-  	changed = yellow
+  added = green
+  changed = yellow
 	untracked = magenta
 [user]
 	name = hulkoba

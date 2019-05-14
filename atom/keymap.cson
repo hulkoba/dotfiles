@@ -1,6 +1,0 @@
-'atom-workspace atom-text-editor:not([mini])':
-  'ctrl-/': 'unset!'
-  'ctrl-shift-D': 'editor:delete-line'
-  'ctrl-b': 'find-and-replace:select-next'
-  'ctrl-d': 'editor:duplicate-lines'
-  'ctrl-7': 'editor:toggle-line-comments'
