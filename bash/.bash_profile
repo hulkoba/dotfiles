@@ -30,5 +30,3 @@ export ERL_FLAGS="-couch_ini /opt/couchdb/etc/default.ini /opt/couchdb/etc/local
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
-
-export NPM_TOKEN="e65aa6ed-93e0-43c1-8640-6ea4d59112c2"
