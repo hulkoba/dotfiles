@@ -24,9 +24,8 @@
 	status = always
 	ui = true
 [color "status"]
-  added = green
-  changed = yellow
+        added = green
+        changed = yellow
 	untracked = magenta
 [user]
 	name = hulkoba
-	email = fuchspippi@web.de
