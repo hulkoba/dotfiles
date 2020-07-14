@@ -4,7 +4,7 @@ RESET='\033[0m'
 RED='\033[01;31m'
 YELLOW='\033[01;32m'
 
-FORBIDDEN=( 'test.only' )
+FORBIDDEN=('test.only' "console.log('### ")
 FOUND=''
 
 for file in `git diff --cached --name-only`
